@@ -1,0 +1,4693 @@
+FaqirColony	Metroville
+Metroville	BawanyGhali
+BawanyGhali	ValikaMill
+ValikaMill	HabbibBank
+HabbibBank	PetrolPump
+PetrolPump	Lasbela
+Lasbela	SabilwaliMasjid
+SabilwaliMasjid	OldExhibition
+OldExhibition	Sadar
+Sadar	FrereRoad
+FrereRoad	BurnsRoad
+BurnsRoad	BandarRoad
+BandarRoad	TowerNazimabd
+TowerNazimabd	BaraMaidan
+BaraMaidan	Lasbela
+Lasbela	LawrenceRoad
+LawrenceRoad	BarnessStreet
+BarnessStreet	BandarRoad
+BandarRoad	Tower
+Tower	M.P.RColony
+M.P.RColony	QasbaColony
+QasbaColony	BanarasColony
+BanarasColony	PathanColony
+PathanColony	S.I.T.E
+S.I.T.E	HabibBank
+HabibBank	Bismillah
+Bismillah	Hotel
+Hotel	GandhiGarden
+GandhiGarden	GardenRoad
+GardenRoad	Plaza
+Plaza	Regal
+Regal	Shahra-e-Liaquat
+Shahra-e-Liaquat	NationalMuseum
+NationalMuseum	Tower
+Tower	Sultanabad
+Sultanabad	IttehadTown
+IttehadTown	TorriChowkSectorII
+TorriChowkSectorII	OrangiTownship
+OrangiTownship	BanarasColony
+BanarasColony	PathanColony
+PathanColony	PetrolPump
+PetrolPump	LiaquatabadNo.10
+LiaquatabadNo.10	Liaquatabad
+Liaquatabad	PostOffice
+PostOffice	TeenHatti
+TeenHatti	JehangirRoad
+JehangirRoad	EmpressMarket
+EmpressMarket	CanttStation
+CanttStation	NavalColony
+NavalColony	Mauripur
+Mauripur	GulbaiChowk
+GulbaiChowk	Tower
+Tower	JunaMarket
+JunaMarket	Ramswami
+Ramswami	GardenBara
+GardenBara	OrangiTownshipNo.10M.WTower
+OrangiTownshipNo.10M.WTower	FrereRoad
+FrereRoad	Sadar
+Sadar	Numaish
+Numaish	GoroMandir
+GoroMandir	TeenHatti
+TeenHatti	LiaquatNo.10
+LiaquatNo.10	PetrolPump
+PetrolPump	NazimabadNo.2
+NazimabadNo.2	GandhiChowk
+GandhiChowk	PaposhNagar
+PaposhNagar	AbdullahCollege
+AbdullahCollege	MetroCinema
+MetroCinema	DataChowk
+DataChowk	OrangiTown
+OrangiTown	Gulshan-e-Bahar
+Gulshan-e-Bahar	OrangiSectorNo.14
+OrangiSectorNo.14	OrangiSectorNo.13
+OrangiSectorNo.13	OrangiSectorNo.7
+OrangiSectorNo.7	Orangi
+Orangi	SectorNo.5
+SectorNo.5	QadafiChowk
+QadafiChowk	QasbaMour
+QasbaMour	BanarasColony
+BanarasColony	ValikaHospital
+ValikaHospital	ValikaMill
+ValikaMill	HabibBank
+HabibBank	S.I.T.E
+S.I.T.E	PostOffice
+PostOffice	MaroonMill
+MaroonMill	LaltainFactory
+LaltainFactory	GhaniChowk
+GhaniChowk	Shershah
+Shershah	MiranNaka
+MiranNaka	Chakiwara
+Chakiwara	LeeMarket
+LeeMarket	Kharadar
+Kharadar	JamatKhana
+JamatKhana	Tower
+Tower	Tower
+Tower	RegalCinema
+RegalCinema	Plaza
+Plaza	Garden
+Garden	PakistanQuarters
+PakistanQuarters	BaraBoard
+BaraBoard	Banaras
+Banaras	QasbaMour
+QasbaMour	OrangiSectorNo.1
+OrangiSectorNo.1	MetroCinema
+MetroCinema	OrangiSectorNo.5
+OrangiSectorNo.5	Masjid-e-Usman
+Masjid-e-Usman	Nursery
+Nursery	P.E.C.H.S
+P.E.C.H.S	SocietyOffice
+SocietyOffice	JamshedRoad
+JamshedRoad	NewTownMasjid
+NewTownMasjid	MunicipalDispensary
+MunicipalDispensary	GuruMandir
+GuruMandir	K.M.CPrimarySchool
+K.M.CPrimarySchool	OldExhibition
+OldExhibition	PlazaCinema
+PlazaCinema	SaeedManzil
+SaeedManzil	Boulton
+Boulton	Market
+Market	Tower
+Tower	LalKothi
+LalKothi	Nursery
+Nursery	Shahrah-e-MillatRoad
+Shahrah-e-MillatRoad	JamaluddinAfghaniRoad
+JamaluddinAfghaniRoad	KhalidBinWalidRoad
+KhalidBinWalidRoad	P.E.C.H.S
+P.E.C.H.S	SocietyOffice
+SocietyOffice	KudadadColony
+KudadadColony	M.AJinnahRoad
+M.AJinnahRoad	FrereStreet
+FrereStreet	PreedyStreet
+PreedyStreet	FrereRoad
+FrereRoad	BurnsRoad
+BurnsRoad	BunderRoad
+BunderRoad	Tower
+Tower	EndofSector4BaldiaTown
+EndofSector4BaldiaTown	Shershah
+Shershah	Gulbai
+Gulbai	Kharadar
+Kharadar	Tower
+Tower	CityP.OBurnsRoad
+CityP.OBurnsRoad	FrereRoad
+FrereRoad	Regal
+Regal	EmpressMarket
+EmpressMarket	KatrakRoad
+KatrakRoad	M.AJinnahRoad
+M.AJinnahRoad	OldExhibition
+OldExhibition	Shahrah-eQaideen
+Shahrah-eQaideen	KhudadadColony
+KhudadadColony	Qabrustan
+Qabrustan	TariqRoad
+TariqRoad	Bahadurabad
+Bahadurabad	Khatoon-e-PakistanCollege
+Khatoon-e-PakistanCollege	DhorajiSociety
+DhorajiSociety	Gulistan-e-Johar
+Gulistan-e-Johar	SufariPark
+SufariPark	N.I.P.AChowrangi
+N.I.P.AChowrangi	CivicCentre
+CivicCentre	SabziMandi
+SabziMandi	JailRoad
+JailRoad	HyderabadColony
+HyderabadColony	GuruMandir
+GuruMandir	Numaish
+Numaish	Saddar
+Saddar	Regal
+Regal	SaeedManzil
+SaeedManzil	M.AJinnahRoad
+M.AJinnahRoad	SuperMarket(NearMaymarFlats)
+SuperMarket(NearMaymarFlats)	SehrahGoth
+SehrahGoth	WaterPump
+WaterPump	FazalMills
+FazalMills	RashidMinhasRoad
+RashidMinhasRoad	MotiMahal
+MotiMahal	N.I.P.AChowrangi
+N.I.P.AChowrangi	MouchiMorNo5
+MouchiMorNo5	UrduCollege
+UrduCollege	HasanSquare
+HasanSquare	SabziMandi
+SabziMandi	Bahadurabad
+Bahadurabad	TariqRoad
+TariqRoad	Nursery
+Nursery	GoraQabrustan
+GoraQabrustan	FleetClubShahrah-e-Iraq
+FleetClubShahrah-e-Iraq	Masid-e-Khizra
+Masid-e-Khizra	BurnsRoad
+BurnsRoad	M.AJinnahRoad
+M.AJinnahRoad	Tower
+Tower	KhojaJamatKhana
+KhojaJamatKhana	Baghdadi
+Baghdadi	AgraTajColony
+AgraTajColony	AzamBasti
+AzamBasti	Corporation
+Corporation	Kalapul
+Kalapul	JinnahHospital
+JinnahHospital	Saddar
+Saddar	7thDayHospital
+7thDayHospital	Numaish
+Numaish	GuruMandir
+GuruMandir	IslamiaCollege
+IslamiaCollege	JailRoad
+JailRoad	NewTownPoliceStation
+NewTownPoliceStation	SabziMandi
+SabziMandi	CivicCentre
+CivicCentre	UrduCollege
+UrduCollege	N.I.P.AChowrangi
+N.I.P.AChowrangi	SafariPark
+SafariPark	UniversityRoad
+UniversityRoad	SafooraGoth
+SafooraGoth	PowerHouse
+PowerHouse	Nursery
+Nursery	Saddar
+Saddar	Tower
+Tower	Al-NoorGulberg
+Al-NoorGulberg	WaterPump
+WaterPump	Karimabad
+Karimabad	Dockyard
+Dockyard	WaterPump
+WaterPump	Lalukhat
+Lalukhat	TeenHatti
+TeenHatti	GuruMandir
+GuruMandir	Saddar
+Saddar	Tower
+Tower	Dockyard
+Dockyard	DrighColonySectorNo3
+DrighColonySectorNo3	IqbalShaheedRoad
+IqbalShaheedRoad	FleetClub
+FleetClub	Nursery
+Nursery		DrighColonysectorNo3
+DrighColonysectorNo3	DrighRoadStation
+DrighRoadStation	Karsazlalkothi
+Karsazlalkothi	Nursery
+Nursery	Shahrah-e-qaideen
+Shahrah-e-qaideen	Numaish
+Numaish	Tower
+Tower	Woodstreet
+Woodstreet	FrereRoad
+FrereRoad	BurnsRoad
+BurnsRoad	M.AjinnahRoad
+M.AjinnahRoad	NasirColony
+NasirColony	LandhiNo.1
+LandhiNo.1	Malir
+Malir	DrighRoad
+DrighRoad	CanttStation
+CanttStation	Karsaz
+Karsaz	NationalStadium
+NationalStadium	CivicCentre
+CivicCentre	LiaquatabadNo.16
+LiaquatabadNo.16	AishaManzil
+AishaManzil	WaterPump
+WaterPump	SohrabGoth
+SohrabGoth	PowerHouse
+PowerHouse	NewKarachi
+NewKarachi	GodhraCamp
+GodhraCamp	
+NasirColony	KorangiNo4
+KorangiNo4	KorangiNo6
+KorangiNo6	LandhiNo1
+LandhiNo1	Malir
+Malir	DrighRoad
+DrighRoad	Karsaz
+Karsaz	Nationalstadium
+Nationalstadium	CivicCentre
+CivicCentre	LiaquatabadNo10
+LiaquatabadNo10	Karimabad
+Karimabad	Aishamanzil
+Aishamanzil	WaterPump
+WaterPump	Sohrabgoth
+Sohrabgoth	Powerhouse
+Powerhouse	Godhracamp
+Godhracamp	
+Saddar	Jinnahcentralhospital
+Jinnahcentralhospital	Kalapul
+Kalapul	KorangiRoad
+KorangiRoad	KorangiNo5-1/2
+KorangiNo5-1/2	DhobiGhat
+DhobiGhat	Ghouspak
+Ghouspak	Coastguard
+Coastguard	KorangiNo2
+KorangiNo2	NasirColony
+NasirColony	ChamraChowrangi
+ChamraChowrangi	Jamsaddiqalibridge
+Jamsaddiqalibridge	
+AkhtarColony	Kalapul
+Kalapul	Jinnahhospital
+Jinnahhospital	Luckystar
+Luckystar	Saddar
+Saddar	Dr.DowoodpotaRoad
+Dr.DowoodpotaRoad	M.AjinnahRoad
+M.AjinnahRoad	GuruMandir
+GuruMandir	Islamiacollege
+Islamiacollege	JailRoad
+JailRoad	Aghakhanhospital
+Aghakhanhospital	Dalmia
+Dalmia	DrivenCinema
+DrivenCinema	
+RashidminhasRoad	N.I.P.A
+N.I.P.A	SafariPark
+SafariPark	Gulistan-e-Jauher
+Gulistan-e-Jauher	PehalwanGoth
+PehalwanGoth	
+KhaddaQuarters	MarketNo.6
+MarketNo.6	TasweerMahal
+TasweerMahal	100Quarters
+100Quarters	DhobiGhat
+DhobiGhat	KorangiNo.6
+KorangiNo.6	Qayumabad
+Qayumabad	DefenceSociety
+DefenceSociety	JinnahHospital
+JinnahHospital	RajaGhazanfarAliRoad
+RajaGhazanfarAliRoad	
+BabarMarket	LandhiNo.31/2
+LandhiNo.31/2	LandhiNo.5
+LandhiNo.5	KorangiNo.6
+KorangiNo.6	KorangiNo.5
+KorangiNo.5	KorangiNo.3
+KorangiNo.3	
+KorangiNo.1	KorangiCrossing
+KorangiCrossing	Qayumabad
+Qayumabad	AkhtakColony
+AkhtakColony	DefenceSociety
+DefenceSociety	KalaPul
+KalaPul	JinnahHospital
+JinnahHospital	LuckStarHotel
+LuckStarHotel	HijazDairyFarm
+HijazDairyFarm	
+BabarMarket	Landhi3-1/2
+Landhi3-1/2	LandhiNo5
+LandhiNo5	KorangiNo6
+KorangiNo6	KorangiNo5
+KorangiNo5	KorangiNo3
+KorangiNo3	KorangiNo1
+KorangiNo1	KorangiCrossing
+KorangiCrossing	Qayumabad
+Qayumabad	AkhtarColony
+AkhtarColony	Defencesociety
+Defencesociety	Kalapul
+Kalapul	Jinnahhospital
+Jinnahhospital	luckystar
+luckystar	Khaddaquaters
+Khaddaquaters	MarketNo6
+MarketNo6	Tasweermahal
+Tasweermahal	Dhobighat
+Dhobighat	KorangiNo6
+KorangiNo6	Qayumabad
+Qayumabad	Defencesociety
+Defencesociety	Jinnahhospital
+Jinnahhospital	RajaGhazanfarAliRoad
+RajaGhazanfarAliRoad	
+SurjaniTown	NaganChowrangi
+NaganChowrangi	SohrabGoth
+SohrabGoth	N.I.P.AChowrangi
+N.I.P.AChowrangi	Malir
+Malir	Quaidabad
+Quaidabad	Landhi
+Landhi	Korangi
+Korangi	
+SurjaniTown	NaganChowrangi
+NaganChowrangi	SohrabGoth
+SohrabGoth	N.I.P.AChowrangi
+N.I.P.AChowrangi	Gulshan-e-Iqbal
+Gulshan-e-Iqbal	Malir
+Malir	Quaidabad
+Quaidabad	Landhi
+Landhi	Korangi
+Korangi	
+P.A.TColony	Cliftonbridge
+Cliftonbridge	BleakhouseRoad
+BleakhouseRoad	CanttStation
+CanttStation	FrereRoad
+FrereRoad	BurnsRoad
+BurnsRoad	S.MMcleodRoad
+S.MMcleodRoad	Tower
+Tower	Kemari
+Kemari	
+FaqirColony	MohajircampNo7-1/2
+MohajircampNo7-1/2	Shershah
+Shershah	Estateavenue
+Estateavenue	Habibbank
+Habibbank	NazimabadNo2
+NazimabadNo2	
+LiaquatabadNo10	Essanagari
+Essanagari	Hasansquare
+Hasansquare	Sabzimandi
+Sabzimandi	Bahadurabad
+Bahadurabad	TariqRoad
+TariqRoad	
+
+Shahrah-e-qaideen	KhudadadColony
+KhudadadColony	JigarmuradavadiRoad
+JigarmuradavadiRoad	Societyoffice
+Societyoffice	
+
+FaqirColony	Rubycinema
+Rubycinema	HubriverRoad
+HubriverRoad	Shershah
+Shershah	Chakiwara
+Chakiwara	LeeMarket
+LeeMarket	Hajicamp
+Hajicamp	
+
+Jamilastreet	NishterRoad
+NishterRoad	Baba-e-urduRoad
+Baba-e-urduRoad	Shahrah-e-liaquat
+Shahrah-e-liaquat	FrescoChowk
+FrescoChowk	MohammadbinqasimRoad
+MohammadbinqasimRoad	M.AjinnahRoad
+M.AjinnahRoad	Mansfieldstreet
+Mansfieldstreet	EmpressMarket
+EmpressMarket	MirkaramAliTalpurRoad
+MirkaramAliTalpurRoad	
+
+WellingtonStreet	CanttStation
+CanttStation	Clifton
+Clifton	DelhiColony
+DelhiColony	Gizri
+Gizri	
+
+Gizri	DelhiColony
+DelhiColony	Cliftonbridge
+Cliftonbridge	CanttStation
+CanttStation	FrereRoad
+FrereRoad	BurnsRoad
+BurnsRoad	Tower
+Tower	Kharadar
+Kharadar	LeeMarket
+LeeMarket	Chaliwara
+Chaliwara	Shershah
+Shershah	Mohajircamp
+Mohajircamp	Saeedabad
+Saeedabad	
+
+FederalB.Area	NooraniMasjid
+NooraniMasjid	PeoplesColony
+PeoplesColony	ImamBara
+ImamBara	HumayunRoad
+HumayunRoad	K.D.AOffice
+K.D.AOffice	
+
+NorthNazimabad	BoardOffice
+BoardOffice	NazimabadNo.7
+NazimabadNo.7	PetrolPump
+PetrolPump	Lasbella
+Lasbella	SabilWaliMasjid
+SabilWaliMasjid	
+
+SoldierBazar	Saddar
+Saddar	FrereRoad
+FrereRoad	M.WTower
+M.WTower	NooraniMasjid
+NooraniMasjid	
+
+NorthNazimabadBlockM	Shahra-e-Jehangir
+Shahra-e-Jehangir	WaterPump
+WaterPump	Hyderi
+Hyderi	PaposhNagar
+PaposhNagar	BaraMaidan
+BaraMaidan	NazimabadNo.2
+NazimabadNo.2	PetrolPump
+PetrolPump	GuruMandir
+GuruMandir	Saddar
+Saddar	BurnsRoad
+BurnsRoad	MereweatherTower
+MereweatherTower	Keamari
+Keamari	
+
+ShirinjinnahColony	Clifton
+Clifton	Mehatapalace
+Mehatapalace	Cliftonbridge
+Cliftonbridge	Bagh-e-jinnah
+Bagh-e-jinnah	Metropolehotel
+Metropolehotel	
+
+Luckystar	Saddar
+Saddar	Garden
+Garden	Oldgolimar
+Oldgolimar	BaraBoard
+BaraBoard	Habibbank
+Habibbank	Valikastop
+Valikastop	PoliceStation
+PoliceStation	
+
+S.I.T.E	Laboursquare
+Laboursquare	Rashidabad
+Rashidabad	
+
+Luckystar(AsgharshaheedRoad)	Shahrah-e-iraq
+Shahrah-e-iraq	MirkaramalitalpurRoad
+MirkaramalitalpurRoad	CanttStation
+CanttStation	
+
+MeshangRoad	KutcheryRoad
+KutcheryRoad	NewQueensway
+NewQueensway	Nativejetty
+Nativejetty	Tower
+Tower	Dockyard
+Dockyard	
+
+BeharColony	HasanRoad
+HasanRoad	Meesalane
+Meesalane	Kharadar
+Kharadar	M.Wtower
+M.Wtower	Dockyard
+Dockyard	
+
+Rashidabad	BiharColony
+BiharColony	GhaniChowrangi
+GhaniChowrangi	Shershah
+Shershah	Chakiwara
+Chakiwara	LeeMarket
+LeeMarket	HerchandraiRoad
+HerchandraiRoad	HajicampRoad
+HajicampRoad	NishterRoad
+NishterRoad	Baba-e-urdu
+Baba-e-urdu	FrereRoad
+FrereRoad	CourtRoad
+CourtRoad	SarwarshaheedRoad
+SarwarshaheedRoad	Shahrah-e-iraq
+Shahrah-e-iraq	Masjid-e-khizra
+Masjid-e-khizra	BurnsRoad
+BurnsRoad	M.AjinnahRoad
+M.AjinnahRoad	CanttStation
+CanttStation	
+
+AgratajColony	Kalri
+Kalri	Baghdadi
+Baghdadi	Meesalane
+Meesalane	Kharadar
+Kharadar	KhajeerBazar
+KhajeerBazar	LeaMarket
+LeaMarket	Puranihajicamp
+Puranihajicamp	Ranchorelines
+Ranchorelines	ShoMarket
+ShoMarket	Garden
+Garden	Pakistanquaters
+Pakistanquaters	Khajajamatkhana
+Khajajamatkhana	Lasbela
+Lasbela	Teenhatti
+Teenhatti	NewTown
+NewTown	Liaquathospital
+Liaquathospital	Dhorajisociety
+Dhorajisociety	Nationalstadium
+Nationalstadium	NationalCementFactory
+NationalCementFactory	
+
+NavalQuaters	LabourQuaters
+LabourQuaters	DrighRoad
+DrighRoad	NathakhanGoth
+NathakhanGoth	AirPort
+AirPort	Malir
+Malir	Landhi
+Landhi	Quaidabad
+Quaidabad	QazafiTown
+QazafiTown	
+
+Nursery	frereRoad
+frereRoad	Tower
+Tower	Wazirmansion
+Wazirmansion	GulbaiTower
+GulbaiTower	Gulbai
+Gulbai	GrazyColony
+GrazyColony	NavalColony
+NavalColony	Mauripur
+Mauripur	
+
+Shahrah-e-iraq	FrereRoad
+FrereRoad	EmpressMarket
+EmpressMarket	Mansfieldstreet
+Mansfieldstreet	BunderRoad
+BunderRoad	GuruMandir
+GuruMandir	Teenhatti
+Teenhatti	Lasbela
+Lasbela	Golimar
+Golimar	Nazimabad
+Nazimabad	Habibbank
+Habibbank	Valikamills
+Valikamills	Bawanitextilemills
+Bawanitextilemills	Habibmills
+Habibmills	
+
+A.Bbiscuitfactory	Polytechniccollege
+Polytechniccollege	Shershah
+Shershah	BaldiaColony
+BaldiaColony	Saeedabad
+Saeedabad	
+
+CourtRoad	FrereRoad
+FrereRoad	EmpressMarket
+EmpressMarket	Mansfieldstreet
+Mansfieldstreet	BunderRoad
+BunderRoad	Gurumandir
+Gurumandir	
+
+Nazimabad	Habibbank
+Habibbank	Valikaamills
+Valikaamills	Bawanitextilemills
+Bawanitextilemills	Habibmills
+Habibmills	A.Bbiscuitfactory
+A.Bbiscuitfactory	Polytechniccollege
+Polytechniccollege	Shershah
+Shershah	BaldiaColony
+BaldiaColony	Saeedabad
+Saeedabad	
+
+NusratBhuttoColony	AbdullahCollege
+AbdullahCollege	PaposhNagar
+PaposhNagar	BaraMaidan
+BaraMaidan	NazimabadNo.2
+NazimabadNo.2	PetrolPump
+PetrolPump	Lasbela
+Lasbela	PatelPara
+PatelPara	GoroMandir
+GoroMandir	M.AJinnahRoad
+M.AJinnahRoad	TowerKeamari
+TowerKeamari	
+
+Al-AzamTown	GulshanChowrangi
+GulshanChowrangi	N.I.P.A
+N.I.P.A	CivicCentre
+CivicCentre	SabziMandi
+SabziMandi	Bahadurabad
+Bahadurabad	TariqRoad
+TariqRoad	F.T.C
+F.T.C	FuwaraChowk
+FuwaraChowk	I.IChundrigarRoad
+I.IChundrigarRoad	Tower
+Tower	Dockyard
+Dockyard	
+
+NusratBhuttoColony	AbdullahCollege
+AbdullahCollege	PaposhNagar
+PaposhNagar	BaraMaidan
+BaraMaidan	NazimabadNo.2
+NazimabadNo.2	PetrolPump
+PetrolPump	GuruMandir
+GuruMandir	M.AJinnahRoad
+M.AJinnahRoad	Tower
+Tower	Keamari
+Keamari	
+
+NewKarachi	K.D.AOffice
+K.D.AOffice	Al-Hyderi
+Al-Hyderi	StateBankQuarters
+StateBankQuarters	NazimabadChowrangi2
+NazimabadChowrangi2	NazimabadChowrangi1
+NazimabadChowrangi1	LawrenceRoad
+LawrenceRoad	BandarRoad
+BandarRoad	Tower
+Tower	
+
+NaiAbadi	Gulshan-e-SaeedHassan
+Gulshan-e-SaeedHassan	NorthKarachiSectorNo.5-I
+NorthKarachiSectorNo.5-I	TwoMinutesChowrangi
+TwoMinutesChowrangi	
+
+KalaSchool	A.P.W.ASchool
+A.P.W.ASchool	NewKarachiNo.1
+NewKarachiNo.1	NewKarachiNo.2
+NewKarachiNo.2	NewKarachiNo.3
+NewKarachiNo.3	SakhiHassan
+SakhiHassan	WaterPump
+WaterPump	Hyderi
+Hyderi	K.D.AOffice
+K.D.AOffice	PetrolPump
+PetrolPump	Nazimabad
+Nazimabad	HabibBank
+HabibBank	Shershah
+Shershah	AgraTajColony
+AgraTajColony	Baghdadi
+Baghdadi	Kharadar
+Kharadar	Tower
+Tower	Kemari
+Kemari	
+
+NewKarachi	IndustrialArea
+IndustrialArea	Karimabad
+Karimabad	Liaquatabad
+Liaquatabad	TeenHatti
+TeenHatti	GoroMandir
+GoroMandir	M.AJinnahRoad
+M.AJinnahRoad	BandarRoad
+BandarRoad	PreedyStreet
+PreedyStreet	PoliceStation
+PoliceStation	Saddar
+Saddar	
+
+NewKarachiBlock5-F	IndustrialArea
+IndustrialArea	Karimabad
+Karimabad	Liaquatabad
+Liaquatabad	TeenHatti
+TeenHatti	GoroMandir
+GoroMandir	M.AJinnahRoad
+M.AJinnahRoad	BandarRoad
+BandarRoad	PreedyStreet
+PreedyStreet	PoliceStation
+PoliceStation	Saddar
+Saddar	
+
+NewKarachiSector5-D	K.D.AOffice
+K.D.AOffice	Al-Hyderi
+Al-Hyderi	StateBankQuarters
+StateBankQuarters	Nazimabad
+Nazimabad	LasbelaHouse
+LasbelaHouse	OjhaRoad
+OjhaRoad	GoroMandir
+GoroMandir	EmpressMarket
+EmpressMarket	FrereRoad
+FrereRoad	BunsRoad
+BunsRoad	BandarRoad
+BandarRoad	Tower
+Tower	
+
+NewKarachiSector5-E	NewKarachiSector5-D
+NewKarachiSector5-D	SindhiHotel
+SindhiHotel	NewKarachiSector5
+NewKarachiSector5	NewKarachiSectorII-C
+NewKarachiSectorII-C	Karimabad
+Karimabad	Liaquatabad
+Liaquatabad	TeenHatti
+TeenHatti	JehangirRoad
+JehangirRoad	OldExhibition
+OldExhibition	Plaza
+Plaza	RegalCinema
+RegalCinema	
+
+NaiAbadi	KarellaMour
+KarellaMour	PowerHouse
+PowerHouse	SaleemCentre
+SaleemCentre	U.PMour
+U.PMour	NaganChowrangi
+NaganChowrangi	SakhiHassan
+SakhiHassan	Hyderi
+Hyderi	BoardOffice
+BoardOffice	PetrolPump
+PetrolPump	LiaquatNo.10
+LiaquatNo.10	PostOffice
+PostOffice	TeenHatti
+TeenHatti	GoroMandir
+GoroMandir	Numaish
+Numaish	Saddar
+Saddar	EmpressMarket
+EmpressMarket	FrereRoad
+FrereRoad	BunsRoad
+BunsRoad	M.AJinnahRoad
+M.AJinnahRoad	Tower
+Tower	
+
+SurjaniTown	YosufGoth
+YosufGoth	LalMarket
+LalMarket	NewKarachi
+NewKarachi	WaterPump
+WaterPump	Karimabad
+Karimabad	LiaquatabadNo.10
+LiaquatabadNo.10	TeenHatti
+TeenHatti	GoroMandir
+GoroMandir	7thDayHospital
+7thDayHospital	EmpressMarket
+EmpressMarket	LuckyStar
+LuckyStar	JinnahHospital
+JinnahHospital	CanttStations
+CanttStations	CliftonBridge
+CliftonBridge	Gizri
+Gizri	AckAckSchool
+AckAckSchool	
+
+NaiAbadi	SaleemCentre
+SaleemCentre	NaganChowrangi
+NaganChowrangi	SakhiHassan
+SakhiHassan	Hyderi
+Hyderi	BoardOffice
+BoardOffice	PetrolPump
+PetrolPump	Liaquatabad
+Liaquatabad	GoroMandir
+GoroMandir	M.AJinnahRoad
+M.AJinnahRoad	Dockyard
+Dockyard	Tower
+Tower	
+
+KaliMarket	NewKarachi
+NewKarachi	K.D.AOffice
+K.D.AOffice	Al-Hyderi
+Al-Hyderi	StateBankQuarters
+StateBankQuarters	NazimabadChowrangi
+NazimabadChowrangi	NapierRoad
+NapierRoad	BanderRoad
+BanderRoad	Tower
+Tower	
+
+MaymarComplex	Al-AsifPlaza
+Al-AsifPlaza	SohrabGoth
+SohrabGoth	WaterPump
+WaterPump	Karimabad
+Karimabad	Liaquatabad
+Liaquatabad	TeenHatti
+TeenHatti	Numaish
+Numaish	Saddar
+Saddar	EmpressMarket
+EmpressMarket	BunsRoad
+BunsRoad	M.A.JinnahRoad
+M.A.JinnahRoad	Tower
+Tower	
+
+NaiAbadi	NaganChowrangi
+NaganChowrangi	SakhiHassan
+SakhiHassan	Gulberg
+Gulberg	WaterPump
+WaterPump	Karimabad
+Karimabad	Liaquatabad
+Liaquatabad	
+
+TeenHatti	SabilwaliMasjid
+SabilwaliMasjid	PuraniNumaish
+PuraniNumaish	M.AJinnahRoad
+M.AJinnahRoad	CapriCinema
+CapriCinema	MansfieldStreet
+MansfieldStreet	PreedyStreet
+PreedyStreet	MirKarimAliTalpurRoad
+MirKarimAliTalpurRoad	FleetClub
+FleetClub	JinnahHospital
+JinnahHospital	CanttStation
+CanttStation	
+
+LalMarket5-F	Al-Hyderi
+Al-Hyderi	Nazimabad
+Nazimabad	Golimar
+Golimar	Lasbela
+Lasbela	GoroMandir
+GoroMandir	M.AJinnahRoad
+M.AJinnahRoad	EmpressMarket
+EmpressMarket	Regal
+Regal	SaeedManzil
+SaeedManzil	BandarRoad
+BandarRoad	Tower
+Tower	
+
+SweeperColony	SindhiHotel
+SindhiHotel	GodhraCamp
+GodhraCamp	PowerHouse
+PowerHouse	SohrabGoth
+SohrabGoth	WaterPump
+WaterPump	
+
+Karimabad	LalukhetNo.10
+LalukhetNo.10	TeenHatti
+TeenHatti	Lasbela
+Lasbela	Garden
+Garden	RanchoreLane
+RanchoreLane	JunaMarket
+JunaMarket	DensHall
+DensHall	Tower
+Tower	Dockyard
+Dockyard	
+
+FilterPlant	SohrabGoth
+SohrabGoth	Karimabad
+Karimabad	Liaquatabad
+Liaquatabad	TeenHatti
+TeenHatti	GoroMandir
+GoroMandir	M.AJinnahRoad
+M.AJinnahRoad	Tower
+Tower	Keamari
+Keamari	
+
+SurjaniTown	TwoMinutesChowrangi
+TwoMinutesChowrangi	SaleemCentre
+SaleemCentre	U.PMour
+U.PMour	NaganChowrangi
+NaganChowrangi	ShadmanTown
+ShadmanTown	SakhiHassan
+SakhiHassan	Hyderi
+Hyderi	BoardOffice
+BoardOffice	NazimabadNo.7
+NazimabadNo.7	NazimabadNo.6
+NazimabadNo.6	NazimabadChowrangi
+NazimabadChowrangi	LasbelaHouse
+LasbelaHouse	GoroMandir
+GoroMandir	Numaish
+Numaish	M.AJinnahRoad
+M.AJinnahRoad	Eidgah
+Eidgah	Tower
+Tower	
+
+Al-NoorSociety	NewKarachi
+NewKarachi	AishaManzil
+AishaManzil	NorthNazimabad
+NorthNazimabad	FedralB.AreaBlock-HChowrangi
+FedralB.AreaBlock-HChowrangi	ImamBara
+ImamBara	HussainiSajjadiaChowrangi
+HussainiSajjadiaChowrangi	MoosaColony
+MoosaColony	A.P.W.AGirlsCollege
+A.P.W.AGirlsCollege	
+
+KarimabadChowrangi	Liaquatabad
+Liaquatabad	TeenHatti
+TeenHatti	GoroMandir
+GoroMandir	M.AJinnahRoad
+M.AJinnahRoad	BandarRoad
+BandarRoad	Keamari
+Keamari	
+
+AckAckSchool	Gizri
+Gizri	Clifton
+Clifton	BleakHouseRoad
+BleakHouseRoad	CanttStation
+CanttStation	SarwarShaheedRoad
+SarwarShaheedRoad	CourtRoad
+CourtRoad	BanderRoad
+BanderRoad	Tower
+Tower	BangaliOilmills
+BangaliOilmills	ParachaMill
+ParachaMill	BaldiaColonyNo.6
+BaldiaColonyNo.6	BaldiaColonyNo.7
+BaldiaColonyNo.7	Qabrustan
+Qabrustan	ChandniChowk
+ChandniChowk	RubyCinema
+RubyCinema	Saeedabad
+Saeedabad	
+
+FedralB.Area	Liaquatabad
+Liaquatabad	TeenHatti
+TeenHatti	GoroMandir
+GoroMandir	M.AJinnahRoad
+M.AJinnahRoad	BandarRoad
+BandarRoad	Tower
+Tower	Dockyard
+Dockyard	
+
+IttehadTown	NaiAbadi
+NaiAbadi	BaldaColony
+BaldaColony	NationalMotors
+NationalMotors	Shershah
+Shershah	Chakiwara
+Chakiwara	LeeMarket
+LeeMarket	OldHajiCampRoad
+OldHajiCampRoad	NishterRoad
+NishterRoad	TeenHatti
+TeenHatti	LiaquatabadNo.10
+LiaquatabadNo.10	Gharibabad
+Gharibabad	HassanSquare
+HassanSquare	SabziMandi
+SabziMandi	
+
+GulbergColony	Rahimabad
+Rahimabad	K.D.APumpHouse
+K.D.APumpHouse	WahadatColony
+WahadatColony	Saghirabad
+Saghirabad	Nasirabad
+Nasirabad	
+
+DastagirColony	Azizabad
+Azizabad	Liaquatabad
+Liaquatabad	TeenHatti
+TeenHatti	GoroMandir
+GoroMandir	M.AJinnahRoad
+M.AJinnahRoad	FrereStreet
+FrereStreet	PreedtStreet
+PreedtStreet	FrereRoad
+FrereRoad	BunsRoad
+BunsRoad	Tower
+Tower	FedralB.Area
+FedralB.Area	LiaquatabadNo.10
+LiaquatabadNo.10	TeenHatti
+TeenHatti	GoroMandir
+GoroMandir	OldExhibition
+OldExhibition	EmpressMarket
+EmpressMarket	FrereRoad
+FrereRoad	BunsRoad
+BunsRoad	BandarRoad
+BandarRoad	Tower
+Tower	Dockyard
+Dockyard	
+
+SurjaniTown	KalaSchool
+KalaSchool	U.PMour
+U.PMour	NaganChowrangi
+NaganChowrangi	PowerHouse
+PowerHouse	SohrabGoth
+SohrabGoth	
+
+Karimabad	LiaquatabadNo.10
+LiaquatabadNo.10	LiaquatabadPostOffice
+LiaquatabadPostOffice	TeenHatti
+TeenHatti	P.I.BColony
+P.I.BColony	Al-NoorSociety
+Al-NoorSociety	WaterPump
+WaterPump	AishaManzil
+AishaManzil	NorthNazimabad
+NorthNazimabad	Al-Hyderi
+Al-Hyderi	AltafNagar
+AltafNagar	BaraMaidan
+BaraMaidan	GoroMandir
+GoroMandir	OldExhibition
+OldExhibition	EmpressMarket
+EmpressMarket	FrereRoad
+FrereRoad	BunsRoad
+BunsRoad	BandarRoad
+BandarRoad	
+
+Tower	Keamari
+Keamari	NewKarachiSectorII-EArea
+NewKarachiSectorII-EArea	PowerHouse
+PowerHouse	Al-NoorSociety
+Al-NoorSociety	Gulberg
+Gulberg	WaterPump
+WaterPump	
+
+Liaquatabad	TeenHatti
+TeenHatti	LawrenceRoad
+LawrenceRoad	HajiCampRoad
+HajiCampRoad	LeeMarket
+LeeMarket	Shershah
+Shershah	DelhiColony
+DelhiColony	
+
+SurjaniTown	TwoMinutesChowrangi
+TwoMinutesChowrangi	PowerHouse
+PowerHouse	NaganChowrangi
+NaganChowrangi	BufferZone
+BufferZone	SohrabGoth
+SohrabGoth	SaghirCentre
+SaghirCentre	FazalMills
+FazalMills	RashidMinhasRoad
+RashidMinhasRoad	DrighRoad
+DrighRoad	Station
+Station	Shahra-e-Faisal
+Shahra-e-Faisal	
+
+StarGate	MalirHalt
+MalirHalt	MalirNo.15
+MalirNo.15	Quaidabad
+Quaidabad	DawoodChowrangi
+DawoodChowrangi	Landhi89
+Landhi89	BilalChowrangihospital
+BilalChowrangihospital	LabourSquare
+LabourSquare	
+
+Memongoth	Malircity
+Malircity	Nationalhighway
+Nationalhighway	Dalmiacementfactory
+Dalmiacementfactory	JailRoad
+JailRoad	LawrenceRoad
+LawrenceRoad	HajicampRoad
+HajicampRoad	MochGoth
+MochGoth	
+
+HashimGoth	Memongoth
+Memongoth	Malircity
+Malircity	Nationalhighway
+Nationalhighway	Dalmiacementfactory
+Dalmiacementfactory	JailRoad
+JailRoad	LawrenceRoad
+LawrenceRoad	HajicampRoad
+HajicampRoad	LeeMarket
+LeeMarket	
+
+Moachgoth	HajicampRoad
+HajicampRoad	LawranceRoad
+LawranceRoad	Garden
+Garden	Lasbela
+Lasbela	Teenhatti
+Teenhatti	JailRoad
+JailRoad	DalimiacementfactoryRoad
+DalimiacementfactoryRoad	Nationalhighway
+Nationalhighway	KalaBoard
+KalaBoard	Saudabad
+Saudabad	Miandadgoth
+Miandadgoth	
+
+IttefaqColonyMalir	Gharibabad
+Gharibabad	KhokhraparNo1
+KhokhraparNo1	KhokhraparNo2
+KhokhraparNo2	KhokhraparNo3
+KhokhraparNo3	
+
+KhokhraparNo4	Saudabad
+Saudabad	Jinnahsquare
+Jinnahsquare	Malirmalt
+Malirmalt	Chetagate
+Chetagate	DrighRoad
+DrighRoad	statin
+statin	RashidminhasRoad
+RashidminhasRoad	NationalcementFfactory
+NationalcementFfactory	NavalColony
+NavalColony	NationalStadium
+NationalStadium	AghaKhanHospital
+AghaKhanHospital	NewTownPoliceStation
+NewTownPoliceStation	GuruMandir
+GuruMandir	Numaish
+Numaish	BanderRoad
+BanderRoad	Tower
+Tower	
+
+PirSahibGoth	SalehMohammadGoth
+SalehMohammadGoth	Landhi
+Landhi	MalirCity
+MalirCity	NationalHighway
+NationalHighway	DalimiaCementFactory
+DalimiaCementFactory	JailRoad
+JailRoad	MartinRoad
+MartinRoad	TeenHatti
+TeenHatti	Lasbela
+Lasbela	LawrenceRoad
+LawrenceRoad	HajiCampRoad
+HajiCampRoad	MoachGoth
+MoachGoth	
+
+ShidiVillage	PeersarhandiVillage
+PeersarhandiVillage	LashariVillage
+LashariVillage	MeesaGoth
+MeesaGoth	ModelVillage
+ModelVillage	Chaukandi
+Chaukandi	
+
+NationalHighway	Qauidabad
+Qauidabad	MalirCity
+MalirCity	NationalStadiumRoad
+NationalStadiumRoad	Garden
+Garden	LeaMarket
+LeaMarket	LabourSquare
+LabourSquare	GulMohammadChowrangi
+GulMohammadChowrangi	MetropolitanSteelCorporation
+MetropolitanSteelCorporation	QazafiTown
+QazafiTown	
+
+Quaidabad	Landhi
+Landhi	MalirCity
+MalirCity	DrighRoad
+DrighRoad	JailRoad
+JailRoad	NishterRoad
+NishterRoad	LeeMarket
+LeeMarket	AghaKhanJamatKhana
+AghaKhanJamatKhana	G.AllanaRoad
+G.AllanaRoad	KhejaJamatKhana
+KhejaJamatKhana	Dockyard
+Dockyard	Fisheries
+Fisheries	
+
+Kenker	BukhariBijariBhatti
+BukhariBijariBhatti	HajiJikhria
+HajiJikhria	MalirCantt
+MalirCantt	UniversityRoad
+UniversityRoad	JailRoad
+JailRoad	TeenHatti
+TeenHatti	LawrenceRoad
+LawrenceRoad	HajiCampRoad
+HajiCampRoad	LeeMarket
+LeeMarket	
+
+LeeMarket	ManghopirRoad
+ManghopirRoad	BanarasColony
+BanarasColony	NewKarahciSaindadGoth
+NewKarahciSaindadGoth	RaziB.BMemberGoth
+RaziB.BMemberGoth	AngaraGoth
+AngaraGoth	Geram-ka-Goth
+Geram-ka-Goth	NewKenker
+NewKenker	GadapGoth
+GadapGoth	
+
+WashailBagh	Gadap
+Gadap	Muderwah
+Muderwah	Kenker
+Kenker	BakhariBijaraBhatti
+BakhariBijaraBhatti	HajiJikhria
+HajiJikhria	MalirCantt
+MalirCantt	University
+University	JailRoad
+JailRoad	TeenHatti
+TeenHatti	LawrenceRoad
+LawrenceRoad	HajiCampRoad
+HajiCampRoad	LeeMarket
+LeeMarket	
+
+Kathere	NationalHighway
+NationalHighway	DalimiaCementFactoryRoad
+DalimiaCementFactoryRoad	JailRoad
+JailRoad	MartinRoad
+MartinRoad	LawrenceRoad
+LawrenceRoad	HajiCampRoad
+HajiCampRoad	MoachGoth
+MoachGoth	
+
+MoriaFaqirGoth	MohammadMuradGokhiaGoth
+MohammadMuradGokhiaGoth	Kathere
+Kathere	NationalHighway
+NationalHighway	DalimiaCementFactoryRoad
+DalimiaCementFactoryRoad	jailRoad
+jailRoad	MartinRoad
+MartinRoad	LawrenceRoad
+LawrenceRoad	HajicampRoad
+HajicampRoad	LeeMarket
+LeeMarket	
+
+MalirCity	NationalHighway
+NationalHighway	DalimiaCementFactoryRoad
+DalimiaCementFactoryRoad	JialRoad
+JialRoad	MartinRoad
+MartinRoad	LawrenceRoad
+LawrenceRoad	HajicampRoad
+HajicampRoad	LeeMarket
+LeeMarket	
+
+DarsanaChana	MalirCity
+MalirCity	NationalHighway
+NationalHighway	DalimiaCementFactoryRoad
+DalimiaCementFactoryRoad	JialRoad
+JialRoad	MartinRoad
+MartinRoad	LawrenceRoad
+LawrenceRoad	NapierRoad
+NapierRoad	MarrietRoad
+MarrietRoad	SouthNapierRoad
+
+DarsanaChana	MalirCity
+MalirCity	NationalHighway
+NationalHighway	DalimiaCementFactoryRoad
+DalimiaCementFactoryRoad	JialRoad
+JialRoad	MartinRoad
+MartinRoad	LawrenceRoad
+LawrenceRoad	HajiCampRoad
+HajiCampRoad	LeeMarket
+LeeMarket	
+
+HubRiverRoad	BaldiaColony
+BaldiaColony	Shershah
+Shershah	Chakiwara
+Chakiwara	
+
+NavalColony	MauripurVillage
+MauripurVillage	DhobiGhat
+DhobiGhat	PirBokhari
+PirBokhari	Shershah
+Shershah	Chakiwara
+Chakiwara	LeeMarket
+LeeMarket	
+
+NavalColony	Mauripur
+Mauripur	Gulbai
+Gulbai	AgraTajColony
+AgraTajColony	WazirMansion
+WazirMansion	Kharadar
+Kharadar	M.WTower
+M.WTower	GhasBunder
+GhasBunder	PostOffice
+PostOffice	Kearmari
+Kearmari	
+
+NavalColony(HubRiverRoad)	MohajirCamp
+MohajirCamp	Shershah
+Shershah	MiranNaka
+MiranNaka	Chakiwara
+Chakiwara	LeeMarket
+LeeMarket	MohabbatkhanjiRoad
+MohabbatkhanjiRoad	KhojaJamatKhana
+KhojaJamatKhana	CustomHouse
+CustomHouse	Tower
+Tower	
+
+BundMuradKhan	Manghopir
+Manghopir	BanarasColony
+BanarasColony	ValikaMills
+ValikaMills	BaraBoard
+BaraBoard	RexerLines
+RexerLines	DhobiGhat
+DhobiGhat	LeeMarket
+LeeMarket	
+
+LeeMarket	DhobiGhat
+DhobiGhat	S.I.T.E
+S.I.T.E	Manghopir
+Manghopir	BundMuradKhan
+BundMuradKhan	LongLehar
+LongLehar	HubDamColony
+HubDamColony	
+
+Gadap	Manghopir
+Manghopir	BanarasColony
+BanarasColony	ValikaMills
+ValikaMills	BaraBoard
+BaraBoard	RexerLines
+RexerLines	LeaMarket
+LeaMarket	
+
+DastagirColony	Azizabad
+Azizabad	Liaquatabad
+Liaquatabad	TeenHatti
+TeenHatti	GoroMandir
+GoroMandir	M.AJinnahRoad
+M.AJinnahRoad	FrereStreet
+FrereStreet	PreedyStreet
+PreedyStreet	FrereRoad
+FrereRoad	BunsRoad
+BunsRoad	Tower
+Tower	
+
+YasinabadAlliaabad	Hussainabad
+Hussainabad	Karimabad
+Karimabad	LiaquatabadNo.10
+LiaquatabadNo.10	PetrolPump
+PetrolPump	NazimabadChowrangi
+NazimabadChowrangi	Golimar
+Golimar	Lasbela
+Lasbela	GoroMandir
+GoroMandir	M.AJinnahRoad
+M.AJinnahRoad	Saddar
+Saddar	BunsRoad
+BunsRoad	LightHouse
+LightHouse	Tower
+Tower	
+
+SindhiHotelNewKarachi	ManhgopirRoad
+ManhgopirRoad	BanarasColony
+BanarasColony	ValikaMills
+ValikaMills	BaraBoard
+BaraBoard	RexerLines
+RexerLines	DhobiGhat
+DhobiGhat	FaqirMohammadDurraKhanRoad
+FaqirMohammadDurraKhanRoad	HerchandraiRoad
+HerchandraiRoad	LeeMarket
+LeeMarket	
+
+Gulshan-e-Iqbal13-D-2	SamdaniHospital
+SamdaniHospital	Gulshan-e-IqbalBlock5Chowrangi
+Gulshan-e-IqbalBlock5Chowrangi	RashidMinhasRoad
+RashidMinhasRoad	N.I.P.A
+N.I.P.A	UniversityRoad
+UniversityRoad	HassanSquare
+HassanSquare	LiaquatabadNo.10
+LiaquatabadNo.10	LiaquatabadPostOffice
+LiaquatabadPostOffice	
+
+TeenHatti	GoroMandir
+GoroMandir	M.AJinnahRoad
+M.AJinnahRoad	FrereStreet
+FrereStreet	PreedyStreet
+PreedyStreet	FererRoad
+FererRoad	BurnsRoad
+BurnsRoad	BundarRoad
+BundarRoad	Tower
+Tower	
+
+OrangiNo.111/2	OrangiNo.5
+OrangiNo.5	MetroCinema
+MetroCinema	BanarasChowk
+BanarasChowk	HabibBank
+HabibBank	NazimabadPetrolPump
+NazimabadPetrolPump	LiaquatabadNo.10
+LiaquatabadNo.10	HasanSquare
+HasanSquare	NationalStadium
+NationalStadium	Karsaz
+Karsaz	Shahrah-e-Faisal
+Shahrah-e-Faisal	P.A.F
+P.A.F	StarGate
+StarGate	MalirHalt
+MalirHalt	KalaBoard
+KalaBoard	LalMasjid
+LalMasjid	Saudabad
+Saudabad	Khokhrapar
+Khokhrapar	
+
+LiaquatabadPostOffice	LiaquatabadNo.10
+LiaquatabadNo.10	Nazimabad
+Nazimabad	PetrolPumpChowrangi
+PetrolPumpChowrangi	Lasbela
+Lasbela	LawrenceRoad
+LawrenceRoad	GardenRoad
+GardenRoad	BandarRoad
+BandarRoad	Tower
+Tower	
+
+LiaquatabadPostOffice	LiaquatabadNo.10
+LiaquatabadNo.10	Nazimabad
+Nazimabad	PetrolPumpChowrangi
+PetrolPumpChowrangi	Lasbela
+Lasbela	
+
+LawrenceRoad	BritteRoad
+BritteRoad	SoldierBazar
+SoldierBazar	GardenRoad
+GardenRoad	NapierRoad
+NapierRoad	BandarRoad
+BandarRoad	Tower
+Tower	Keamari
+Keamari	
+
+Dockyard	M.WTower
+M.WTower	LeeMarket
+LeeMarket	Chakiwra
+Chakiwra	MiranNaka
+MiranNaka	Shershah
+Shershah	TajSilkMill
+TajSilkMill	HabibBank
+HabibBank	
+
+BaraBoard	MuslimLeagueQuarters
+MuslimLeagueQuarters	NazimabadChowrangi
+NazimabadChowrangi	LiaquatabadPostOffice
+LiaquatabadPostOffice	
+
+LiaquatabadNo.10	Karimabad
+Karimabad	ImamBara
+ImamBara	HussainiSajjadia
+HussainiSajjadia	SaifeeTechnologyCollege
+SaifeeTechnologyCollege	Bufferzone
+Bufferzone	
+
+MohajirCamp	LabourSquare
+LabourSquare	GhaniChowrangi
+GhaniChowrangi	MillsArea
+MillsArea	HabbibBank
+HabbibBank	Garden
+Garden	GardenRoad
+GardenRoad	BandarRoad
+BandarRoad	PreedyStreet
+PreedyStreet	Regal
+Regal	FrereRoad
+FrereRoad	CourtRoad
+CourtRoad	ShaheedComplex
+ShaheedComplex	P.I.D.CHouse
+P.I.D.CHouse	M.TKhanRoad
+M.TKhanRoad	Sultanabad
+Sultanabad	
+
+Gulshan-e-Iqbal	AngloOrientSchool
+AngloOrientSchool	HassanSquare
+HassanSquare	Gharibabad
+Gharibabad	LiaquatabadNo.10
+LiaquatabadNo.10	
+
+LiaquatabadPostOffice	BaraBoard
+BaraBoard	OldGolimar
+OldGolimar	Garden
+Garden	RanchoreLane
+RanchoreLane	JubileeCinema
+JubileeCinema	WestWharf
+WestWharf	
+
+LiaquatabadNo.10	PetrolPump
+PetrolPump	Nazimabad
+Nazimabad	ValikaMills
+ValikaMills	BaraBoard
+BaraBoard	BismillahHotel
+BismillahHotel	
+
+Bakrapidi	Chakiwara
+Chakiwara	LeeMarket
+LeeMarket	MoosaLane
+MoosaLane	Baghdadi
+Baghdadi	Kharadar
+Kharadar	Tower
+Tower	
+
+Keamari	Tower
+Tower	BoltonMarket
+BoltonMarket	Eidgah
+Eidgah	RanchoreLane
+RanchoreLane	Garden
+Garden	Lasbella
+Lasbella	Postoffice
+Postoffice	SindhiHotel
+SindhiHotel	NewTown
+NewTown	CivicCentre
+CivicCentre	N.I.P.A
+N.I.P.A	UniversityRoad
+UniversityRoad	SaforaGoth
+SaforaGoth	TokyoTerracePlaza
+TokyoTerracePlaza	
+
+P.I.BColony	HyderabadColony
+HyderabadColony	GoroMandir
+GoroMandir	M.AJinnahRoad
+M.AJinnahRoad	BandarRoad
+BandarRoad	Tower
+Tower	
+
+P.I.BColony	HyderabadColony
+HyderabadColony	GoroMandir
+GoroMandir	M.AJinnahRoad
+M.AJinnahRoad	FrereStreet
+FrereStreet	PreedyStreet
+PreedyStreet	FrereRoad
+FrereRoad	IngleRoad
+IngleRoad	McleodRoad
+McleodRoad	NapierRoad
+NapierRoad	Keamari
+Keamari	
+
+P.I.BColony	HyderabadColony
+HyderabadColony	GoroMandir
+GoroMandir	SoldierBazar
+SoldierBazar	LillyRoad
+LillyRoad	GardenRoad
+GardenRoad	
+
+LawrenceRoad	NapierRoad
+NapierRoad	BandarRoad
+BandarRoad	Tower
+Tower	Dockyard
+Dockyard	
+
+P.I.BColony	HyderabadColony
+HyderabadColony	GoroMandir
+GoroMandir	SoldierBazar
+SoldierBazar	LillyRoad
+LillyRoad	GardenRoad
+GardenRoad	
+
+LawrenceRoad	NapierRoad
+NapierRoad	BandarRoad
+BandarRoad	Tower
+Tower	Keamari
+Keamari	PirIllahiBuxColony
+PirIllahiBuxColony	MartinRoad
+MartinRoad	TeenHatti
+TeenHatti	Liaquatabad
+Liaquatabad	NazimabadPostOffice
+NazimabadPostOffice	Shershah
+Shershah	
+
+Gulbai	MauripurRoad
+MauripurRoad	MirzaAdamKhanRoad
+MirzaAdamKhanRoad	BiharColony
+BiharColony	Baghdadi
+Baghdadi	KhaddaMemonSociety
+KhaddaMemonSociety	Tower
+Tower	
+
+SurjaniTown	NaiAbadi
+NaiAbadi	BaraDari
+BaraDari	DiscoMour
+DiscoMour	U.PMour
+U.PMour	NaganChowrangi
+NaganChowrangi	PowerHouse
+PowerHouse	
+
+SohrabGoth	MotiMahal
+MotiMahal	N.I.P.A
+N.I.P.A	UniversityRoad
+UniversityRoad	SafariPark
+SafariPark	KarachiUniversity
+KarachiUniversity	SaforaGoth
+SaforaGoth	HaroonBanglow
+HaroonBanglow	
+
+AbdullahGabolGoth	Gulshan-e-Maymar
+Gulshan-e-Maymar	Al-AsifSquare
+Al-AsifSquare	SohrabGoth
+SohrabGoth	WaterPump
+WaterPump	AishaManzil
+AishaManzil	Karimabad
+Karimabad	LiaquatabadNo.10
+LiaquatabadNo.10	Nazimabad
+Nazimabad	PetrolPump
+PetrolPump	HabibBank
+HabibBank	ValikaMills
+ValikaMills	SitePoliceStation
+SitePoliceStation	Rasheedabad
+Rasheedabad	MohajirCampNo.7
+MohajirCampNo.7	MohajirCampNo.19-D
+MohajirCampNo.19-D	RubbyCinema
+RubbyCinema	BalochGoth
+BalochGoth	
+
+NewSabziMandi	Maskan
+Maskan	GulshanThana
+GulshanThana	GulshanChowrangi
+GulshanChowrangi	N.I.P.A
+N.I.P.A	UniversityRoad
+UniversityRoad	
+
+HassanSquare	Gharibabad
+Gharibabad	LiaquatabadNo.10
+LiaquatabadNo.10	NazimabadNo.3
+NazimabadNo.3	NazimabadNo.4
+NazimabadNo.4	PetrolPump
+PetrolPump	NazimabadNo.1
+NazimabadNo.1	NazimabadNo.2
+NazimabadNo.2	HabibBank
+HabibBank	Maripur
+Maripur	ScoutColony
+ScoutColony	Gulshan-eMaymar
+Gulshan-eMaymar	SohrabGoth
+SohrabGoth	Asifsquare
+Asifsquare	NewSabziMandi
+
+FedrelB.Area	Madrassa-e-AnwarulUloom
+Madrassa-e-AnwarulUloom	AzizBhattiShaheedRoad
+AzizBhattiShaheedRoad	Hyderi
+Hyderi	BoardOffice
+BoardOffice	
+
+FirstChowrangi	NazimabadBoard
+NazimabadBoard	BismillahHotel
+BismillahHotel	OldGoliMaar
+OldGoliMaar	PakQuarters
+PakQuarters	Garden
+Garden	PlazaCinema
+PlazaCinema	M.AJinnahRoad
+M.AJinnahRoad	Tower
+Tower	SakhiHasan
+SakhiHasan	Hyderi
+Hyderi	NorthNazimabad
+NorthNazimabad	Lasbella
+Lasbella	Bridge
+Bridge	NazrulIslamRoad
+NazrulIslamRoad	M.WTower
+M.WTower	WestWharf
+WestWharf	CustomHouse
+CustomHouse	
+
+SakhiHassan	Hyderi
+Hyderi	KDAPump
+KDAPump	HussainD'SilvaTown
+HussainD'SilvaTown	PaposhNagar
+PaposhNagar	Nazimabad
+Nazimabad	GoliMaar
+GoliMaar	NishterRoad
+NishterRoad	Garden
+Garden	M.AJinnahRoad
+M.AJinnahRoad	CustomHouse
+CustomHouse	
+
+SirSyedTown	U.PMour
+U.PMour	NaganChowrangi
+NaganChowrangi	SakhiHassan
+SakhiHassan	Hyderi
+Hyderi	BoardOffice
+BoardOffice	Nazimabad
+Nazimabad	
+
+PetrolPump	GoliMaarChowrangi
+GoliMaarChowrangi	Lasbella
+Lasbella	GoroMandir
+GoroMandir	M.AJinnahRoad
+M.AJinnahRoad	Tower
+Tower	NorthKarachiSector4
+NorthKarachiSector4	NorthKarachiSector5
+NorthKarachiSector5	PeelaSchool
+PeelaSchool	Dockyard
+Dockyard	
+
+NewSultanabad	JavedanCementFactory
+JavedanCementFactory	MianwaliColony
+MianwaliColony	NusratBhuttoColony
+NusratBhuttoColony	PaposhNagar
+PaposhNagar	BaraMaidan
+BaraMaidan	NazimabadNo.2
+NazimabadNo.2	PetrolPump
+PetrolPump	GoroMandir
+GoroMandir	OldExhibition
+OldExhibition	M.AJinnahRoad
+M.AJinnahRoad	EmpressMarket
+EmpressMarket	FleetClub
+FleetClub	JinnahHospital
+JinnahHospital	Cantt.Station
+Cantt.Station	Khaliq-uz-ZamanRoad
+Khaliq-uz-ZamanRoad	Gizri
+Gizri	
+
+SaudiEmbassy	Khayaban-e-Shamsheer
+Khayaban-e-Shamsheer	Khayaban-e-Mafia
+Khayaban-e-Mafia	Street26
+Street26	Khayaban-e-Bahria
+Khayaban-e-Bahria	
+
+FleetClub	AkhterColony
+AkhterColony	QayyumAbad
+QayyumAbad	DowwdPotaRoad
+DowwdPotaRoad	EmpressMarket
+EmpressMarket	SevenDayHospital
+SevenDayHospital	M.A.JinnahRoad
+M.A.JinnahRoad	
+
+GulbergChowrangi	SakhiHassanRoad
+SakhiHassanRoad	AllamaTurabiRoad
+AllamaTurabiRoad	PoeplesColony
+PoeplesColony	ZafarHouse
+ZafarHouse	
+
+AllamaRashidTurabiChowk2	Shahra-e-Jehangir
+Shahra-e-Jehangir	WaterPump
+WaterPump	Hyderi
+Hyderi	KDAOffice
+KDAOffice	BankQuarters
+BankQuarters	BoardOffice
+BoardOffice	NazimabadNo.7
+NazimabadNo.7	NazimabadNo.6
+NazimabadNo.6	PetrolPumpGolimar
+PetrolPumpGolimar	Lasbella
+Lasbella	
+
+PatelPara	GuruMandir
+GuruMandir	OldNumaish
+OldNumaish	M.A.JinnahRoad
+M.A.JinnahRoad	Saddar
+Saddar	EmpressMarket
+EmpressMarket	FrereRoad
+FrereRoad	BunsRoad
+BunsRoad	JamaColth
+JamaColth	Tower
+Tower	CustomHouse
+CustomHouse	DockYard
+DockYard	
+
+Saddar	LuckyStar
+LuckyStar	JinnahHospital
+JinnahHospital	KalaPul
+KalaPul	KorangiRoad
+KorangiRoad	KorangiNo.51/2
+KorangiNo.51/2	MarketNo.6
+MarketNo.6	DhobiGhat
+DhobiGhat	
+
+ShirinJinnahColony	KharkarChowrangi
+KharkarChowrangi	BathIsland
+BathIsland	UnitedPrinting
+UnitedPrinting	Sultanabad
+Sultanabad	HajiCamp
+HajiCamp	
+
+PIDC	Station
+Station	DoctorDawoodPotaRoad
+DoctorDawoodPotaRoad	LuckyStar
+LuckyStar	JinnahHospital
+JinnahHospital	KalaPul
+KalaPul	KorangiRoad
+KorangiRoad	
+
+AkhterColony	SingerChowrangi
+SingerChowrangi	Qayyumabad
+Qayyumabad	KorangiIndustrialArea
+KorangiIndustrialArea	Darul-uloom
+Darul-uloom	Bilal
+
+Colony	SingerChowrangi
+SingerChowrangi	KArea
+KArea	Landhino.3
+Landhino.3	LandhiNo.4
+LandhiNo.4	DowoodChowrangi
+DowoodChowrangi	ManserahColony
+ManserahColony	NabbuGoth
+NabbuGoth	
+
+MansoorNagar	OrangiTown
+OrangiTown	DabbaMour
+DabbaMour	IslamChowk
+IslamChowk	DiscoMour
+DiscoMour	OrangiNo.14
+OrangiNo.14	OrangiNo.13
+OrangiNo.13	OrangiNo.12
+OrangiNo.12	OrangiNo.5
+OrangiNo.5	OrangiNo.4
+OrangiNo.4	Metroville
+Metroville	ZiaColony
+ZiaColony	SiteThana
+SiteThana	
+
+Politechnical	PhilipsCompany
+PhilipsCompany	Rashidabad
+Rashidabad	MohajirCampNo.7
+MohajirCampNo.7	NaiAbadi
+NaiAbadi	
+
+AbidabadOrangi	Zia-ul-HaqColony
+Zia-ul-HaqColony	Metroville
+Metroville	OrangiNo.4
+OrangiNo.4	OrangiNo.5
+OrangiNo.5	MetroCinema
+MetroCinema	
+
+BanarasChowk	AbdullahCollege
+AbdullahCollege	AzizMedicalCentre
+AzizMedicalCentre	Shahra-e-Soori
+Shahra-e-Soori	Shahra-e-Humayun
+Shahra-e-Humayun	
+
+A.P.W.ACollege	Shahra-e-Pakistan
+Shahra-e-Pakistan	StarCentre
+StarCentre	Shahdibagh
+Shahdibagh	SamdaniHospital
+SamdaniHospital	GulshanChowrangi
+GulshanChowrangi	DiscoBakery
+DiscoBakery	LeemuGoth
+LeemuGoth	Quaid-e-AzamColony
+Quaid-e-AzamColony	SahafiColony
+SahafiColony	Metroville3
+Metroville3	
+
+GulzarColonySector8-F	SharafaGoth
+SharafaGoth	MansehraColony
+MansehraColony	DawoodChowrangi
+DawoodChowrangi	Quaidabad
+Quaidabad	
+
+MalirCity	MalirHalt
+MalirHalt	DrighRoad
+DrighRoad	Karsaz
+Karsaz	Stadium
+Stadium	HassanSquare
+HassanSquare	LiaquatabadNo.10
+LiaquatabadNo.10	PetrolPump
+PetrolPump	Nazimabad
+Nazimabad	HabibBank
+HabibBank	BanarasChowk
+BanarasChowk	QasbaMour
+QasbaMour	OrangiNo.13
+OrangiNo.13	OrangiNo.6
+OrangiNo.6	OrangiNo.8
+OrangiNo.8	OrangiNo.13
+OrangiNo.13	OrangiNo.14
+OrangiNo.14	Gulshan-e-Behar
+Gulshan-e-Behar	
+
+Gulshan-e-Hadid	Quaidabad
+Quaidabad	Malir
+Malir	StarGate
+StarGate	Karsaz
+Karsaz	Stadium
+Stadium	HassanSquare
+HassanSquare	LiaquatabadNo.10
+LiaquatabadNo.10	NazimabadNo.2
+NazimabadNo.2	HabibBank
+HabibBank	ManghopirRoad
+ManghopirRoad	ValikaMills
+ValikaMills	Metroville
+Metroville	FrontierMour
+FrontierMour	Mominabad
+Mominabad	FaqirColony
+FaqirColony	Abidabad
+Abidabad	
+
+BilalColony	MillsArea
+MillsArea	SharafiGoth
+SharafiGoth	MansehraColony
+MansehraColony	DawoodChowrangi
+DawoodChowrangi	Quaidabad
+Quaidabad	MalirCity
+MalirCity	DrighRoad
+DrighRoad	Karsaz
+Karsaz	Studium
+Studium	HassanSquare
+HassanSquare	Gharibabad
+Gharibabad	Liaquatabad
+Liaquatabad	PetrolPump
+PetrolPump	
+
+Nazimabad	HabibBank
+HabibBank	ValikaMills
+ValikaMills	HabibChowrangi
+HabibChowrangi	CollegeChowrangi
+CollegeChowrangi	LabourSquare
+LabourSquare	
+
+Rasheedabad	ZamZamChowk
+ZamZamChowk	SaeedAbad
+SaeedAbad	MohammadKhanColony
+MohammadKhanColony	RahriGoth
+RahriGoth	QazzafiTown
+QazzafiTown	Quaidabad
+Quaidabad	MalirHalt
+MalirHalt	StarGate
+StarGate	DrighRoad
+DrighRoad	Station
+Station	LabourCampus
+LabourCampus	RashidMinhasRoad
+RashidMinhasRoad	N.I.P.A
+N.I.P.A	Gulshan-e-Iqbal
+Gulshan-e-Iqbal	WaterPump
+WaterPump	SakhiHassan
+SakhiHassan	QalandariaChowk
+QalandariaChowk	Gulshan-e-Farooq7-DQabrustan
+Gulshan-e-Farooq7-DQabrustan	
+
+SurjaniTown	U.PMour
+U.PMour	NaginChowrangi
+NaginChowrangi	PowerHouse
+PowerHouse	SohrabGoth
+SohrabGoth	ShafiqMills
+ShafiqMills	N.I.P.A
+N.I.P.A	
+
+RashidMinhasRoad	DrighRoad
+DrighRoad	Quaidabad
+Quaidabad	DawoodChowrangi
+DawoodChowrangi	ChawalGodown
+ChawalGodown	SherpaoColony
+SherpaoColony	
+
+SurjaniTown	NewKarachi
+NewKarachi	U.PMour
+U.PMour	NaganChowrangi
+NaganChowrangi	Hyderi
+Hyderi	NazimabadChowrangiNo.1
+NazimabadChowrangiNo.1	PatelPara
+PatelPara	GoruMandir
+GoruMandir	JamshedRoad
+JamshedRoad	Shaheed-e-MillatRoad
+Shaheed-e-MillatRoad	Shahra-e-Faisal
+Shahra-e-Faisal	MalirHalt
+MalirHalt	Quaidabad
+Quaidabad	MahtabCinema
+MahtabCinema	SherpaoColony
+SherpaoColony	HospitalChorangi
+HospitalChorangi	Metroville2
+Metroville2	
+
+SurjaniTown	KarimChowrangi
+KarimChowrangi	D.KMour
+D.KMour	KalaSchool
+KalaSchool	KDA
+KDA	W.FMour
+W.FMour	NaganChowrangi
+NaganChowrangi	
+
+PowerHouse	SohrabGoth
+SohrabGoth	N.I.P.A
+N.I.P.A	RashidMinhasRoad
+RashidMinhasRoad	Shara-e-Faisal
+Shara-e-Faisal	StarGate
+StarGate	KalaBoard
+KalaBoard	Quaidabad
+Quaidabad	DawoodChowrangi
+DawoodChowrangi	MansehraColony
+MansehraColony	SharafiGoth
+SharafiGoth	BilalColony
+BilalColony	CamraChowrangi
+CamraChowrangi	BiscuitFactory
+BiscuitFactory	Qayyumabad
+Qayyumabad	
+
+BhenseColony	Quaidabad
+Quaidabad	Malir
+Malir	DrighRoad
+DrighRoad	RashidMinhasRoad
+RashidMinhasRoad	N.I.P.A
+N.I.P.A	SohrabGoth
+SohrabGoth	ShafiMour
+ShafiMour	NaganChowrangi
+NaganChowrangi	MariaHillLuxuryAppartments
+MariaHillLuxuryAppartments	ShadmanTown
+ShadmanTown	QalandariChowk
+QalandariChowk	NusratButthoColony
+NusratButthoColony	KawariColony
+KawariColony	Landhi
+Landhi	NewSultanabad
+NewSultanabad	
+
+SaddiGardenSchemeNo.33	FilterPlant
+FilterPlant	SaddiTown
+SaddiTown	SaforaGoth
+SaforaGoth	Mosamiat
+Mosamiat	UniversityRoad
+UniversityRoad	SafariPark
+SafariPark	N.I.P.A
+N.I.P.A	UrduCollege
+UrduCollege	HassanSquare
+HassanSquare	SabziMandi
+SabziMandi	NewTownChowrangi
+NewTownChowrangi	
+
+KashmirChowrangi	IslamiaCollege
+IslamiaCollege	GoruMandir
+GoruMandir	Numaish
+Numaish	TibetCentre
+TibetCentre	SaeedManzil
+SaeedManzil	JamaCloth
+JamaCloth	LightHouse
+LightHouse	DensoHall
+DensoHall	Kemari
+Kemari	
+
+SharafiGoth	FarooqMills
+FarooqMills	MansehraColony
+MansehraColony	FutureColony
+FutureColony	DawoodChowrangi
+DawoodChowrangi	Quaidabad
+Quaidabad	
+
+MalirRoad	DrighRoad
+DrighRoad	Station
+Station	Drive-In
+Drive-In	RashidMinhasRoad
+RashidMinhasRoad	N.I.P.A
+N.I.P.A	SohrabGoth
+SohrabGoth	Al-NoorStop
+Al-NoorStop	2-DBusStop
+2-DBusStop	GulbergChowrangi
+GulbergChowrangi	SakhiHassan
+SakhiHassan	KDAFlatsSector14-A
+KDAFlatsSector14-A	KDAFlatsSector14-B
+KDAFlatsSector14-B	B-3MiniBusStop
+B-3MiniBusStop	
+
+Dockyard	Fisheries
+Fisheries	SherpaoColony
+SherpaoColony	FishHarbour
+FishHarbour	Ibrahim
+Ibrahim	Hyderi
+Hyderi	PAF
+PAF	Korangi
+Korangi	
+
+Qayyumabad	PunjabColony
+PunjabColony	SchonChowrangi
+SchonChowrangi	BoatBasinChowragni
+BoatBasinChowragni	MaiKalachiRoad
+MaiKalachiRoad	Fisheries
+Fisheries	RehriRoad
+RehriRoad	
+
+BhenseColony	HospitalChowrangi
+HospitalChowrangi	QazafiTown
+QazafiTown	Quaidabad
+Quaidabad	Malir
+Malir	DrighRoad
+DrighRoad	Shahra-eFaisal
+Shahra-eFaisal	JinnahHospital
+JinnahHospital	Cannt.Station
+Cannt.Station	P.I.D.CHouse
+P.I.D.CHouse	Sultanabad
+Sultanabad	Tower
+Tower	PuranaTruckStand
+PuranaTruckStand	
+
+Gulbai	Shershah
+Shershah	HubRiverRoad
+HubRiverRoad	PoliceTrainingSchool
+PoliceTrainingSchool	RubiCinema
+RubiCinema	Saeedabad
+Saeedabad	
+
+ChamraChowrangi	ZiaColony
+ZiaColony	NasirColony
+NasirColony	KorangiNo.1
+KorangiNo.1	KorangiNo.2-1/2
+KorangiNo.2-1/2	CoastGard
+CoastGard	
+
+Hyderi	Chaghi
+Chaghi	BangaliPara
+BangaliPara	TanverMahalCinema
+TanverMahalCinema	KorangiNo.5-1/2
+KorangiNo.5-1/2	KorangiNo.6
+KorangiNo.6	LandhiNo.6
+LandhiNo.6	LandhiNo.5
+LandhiNo.5	LandhiNo.4
+LandhiNo.4	LandhiNo.3
+LandhiNo.3	LandhiNo.2
+LandhiNo.2	LandhiNo.1
+LandhiNo.1	DawoodChowrangi
+DawoodChowrangi	Quaidabad
+Quaidabad	GaddafiTown
+GaddafiTown	
+
+Airport	StarGate
+StarGate	TerminalBuilding
+TerminalBuilding	NationalHighway
+NationalHighway	GoraQabrustan
+GoraQabrustan	JetLine
+JetLine	IqbalShaheedRoad
+IqbalShaheedRoad	FleetClub
+FleetClub	MansfieldStreet
+MansfieldStreet	Shahra-e-Iraq
+Shahra-e-Iraq	TalpurRoad
+TalpurRoad	WellingtonStreet
+WellingtonStreet	DawoodPotaRoad
+DawoodPotaRoad	Station
+Station	PIDCHouse
+PIDCHouse	SultanabadChowrang
+SultanabadChowrang	NSCBuilding
+NSCBuilding	Tower
+Tower	MariPur
+MariPur	Gulbai
+Gulbai	SherShahChowrangi
+SherShahChowrangi	GhaniChowrangi
+GhaniChowrangi	LabourSquare
+LabourSquare	PowerHouse
+PowerHouse	Metroville
+Metroville	ZiaColonyKhokhrapar
+ZiaColonyKhokhrapar	MalirNo.15
+MalirNo.15	NihalHospital
+NihalHospital	AllamaIqbalCollege
+AllamaIqbalCollege	NathaKhanGoth
+NathaKhanGoth	DrighRoad
+DrighRoad	
+
+Karsaz	BalochColony
+BalochColony	Nursery
+Nursery	GoraQabrustan
+GoraQabrustan	JetLine
+JetLine	IqbalShaheedRoad
+IqbalShaheedRoad	FleetClub
+FleetClub	
+
+MansfieldStreet	Shahra-e-Iraq
+Shahra-e-Iraq	TalpurRoad
+TalpurRoad	RafiqueShaheedRoad
+RafiqueShaheedRoad	JinnahHospital
+JinnahHospital	KalaPul
+KalaPul	Masjid-e-Quba
+Masjid-e-Quba	
+
+SectorNo.2MajeedColony	MuzaffarabadColony
+MuzaffarabadColony	SocialSecurityHospital
+SocialSecurityHospital	GulAhmedTextileMills
+GulAhmedTextileMills	DawoodChowrangi
+DawoodChowrangi	Quaidabad
+Quaidabad	MalirHalt
+MalirHalt	NathaKhanGoth
+NathaKhanGoth	DrighRoad
+DrighRoad	Station
+Station	DalmiaChowrangi
+DalmiaChowrangi	GulshanComplex
+GulshanComplex	N.I.P.A
+N.I.P.A	GulshanChowrangi
+GulshanChowrangi	SohrabGoth
+SohrabGoth	Al-AsifSquare
+Al-AsifSquare	NewSabziMandi
+NewSabziMandi	
+
+BhenseColony	DawoodChowrangi
+DawoodChowrangi	Quaidabad
+Quaidabad	MalirCity
+MalirCity	DrighRoad
+DrighRoad	Karsaz
+Karsaz	Stadium
+Stadium	
+
+HassanSquare	LiaquatabadNo.10
+LiaquatabadNo.10	Nazimabad
+Nazimabad	HabibBank
+HabibBank	ShershahChowrangi
+ShershahChowrangi	Gulbai
+Gulbai	MasroorColony
+MasroorColony	
+
+BhenseColony	LandhiChildrenJail
+LandhiChildrenJail	NationalHighway
+NationalHighway	Quaidabad
+Quaidabad	MalirCity
+MalirCity	DrighRoad
+DrighRoad	
+
+Karsaz	HassanSquare
+HassanSquare	LiaquatabadNo.10
+LiaquatabadNo.10	PetrolPump
+PetrolPump	NazimabadNo.2
+NazimabadNo.2	HabibBank
+HabibBank	
+
+Sharshah	FrontierColony
+FrontierColony	OrangiNo.4
+OrangiNo.4	FaqirColony
+FaqirColony	IttehadColony
+IttehadColony	KhyberRehri
+KhyberRehri	GeedarColony
+GeedarColony	HospitalChowrangi
+HospitalChowrangi	GulAhmedMills
+GulAhmedMills	DawoodChorangi
+DawoodChorangi	LandhiNo.1
+LandhiNo.1	
+
+LandhiNo.2	LandhiNo.3
+LandhiNo.3	LandhiNo.4
+LandhiNo.4	LandhiNo.5
+LandhiNo.5	LandhiNo.6
+LandhiNo.6	KorangiNo.6
+KorangiNo.6	KorangiNo.5
+KorangiNo.5	KorangiNo.4
+KorangiNo.4	KorangiNo.3
+KorangiNo.3	KorangiNo.2
+KorangiNo.2	KorangiNo.1
+KorangiNo.1	Qayyumabad
+Qayyumabad	AkhterColony
+AkhterColony	
+
+Kalapul	JinnahHospital
+JinnahHospital	Cantt.Station
+Cantt.Station	Dr.Zia-uddinRoad
+Dr.Zia-uddinRoad	P.I.D.C
+P.I.D.C	MolviTameez-uddinRoad
+MolviTameez-uddinRoad	Sultanabad
+Sultanabad	MasanRoad
+MasanRoad	ShireenJinnahColony
+ShireenJinnahColony	
+
+CattleColony	GulAhmedMills
+GulAhmedMills	DawoodChowrangi
+DawoodChowrangi	LandhiNo.1
+LandhiNo.1	KorangiNo.6
+KorangiNo.6	KorangiNo.1
+KorangiNo.1	
+
+DefenceSociety	GoraQabristan
+GoraQabristan	Shahrah-e-Quaideen
+Shahrah-e-Quaideen	KhalidBinWaleedRoad
+KhalidBinWaleedRoad	Shaheed-eMillatRoad
+Shaheed-eMillatRoad	JailChowrangi
+JailChowrangi	SabziMandi
+SabziMandi	UniversityRoad
+UniversityRoad	HasanSquare
+HasanSquare	N.I.P.A
+N.I.P.A	Gulshan-eIqbal
+Gulshan-eIqbal	WaterPump
+WaterPump	Gulberg
+Gulberg	SakhiHassan
+SakhiHassan	QalandariaChowk
+QalandariaChowk	MustafabadColony
+MustafabadColony	MianWaliColony
+MianWaliColony	
+
+SharafiGoth	SingerChowrangi
+SingerChowrangi	BilalChowrangi
+BilalChowrangi	HazratBilalColony
+HazratBilalColony	BilalPulia
+BilalPulia	ChamraChowrangi
+ChamraChowrangi	BiscuitFactory
+BiscuitFactory	Qayyumabad
+Qayyumabad	AkhterColony
+AkhterColony	DefenceSociety
+DefenceSociety	KalaPul
+KalaPul	GoraQabristan
+GoraQabristan	SindhiMuslimSociety
+SindhiMuslimSociety	Shahrah-e-Quaideen
+Shahrah-e-Quaideen	KhudadadColony
+KhudadadColony	OldNumaish
+OldNumaish	
+
+M.A.JinnahRoad	JamaClothMarket
+JamaClothMarket	Tower
+Tower	WestWarf
+WestWarf	DockYard
+DockYard	
+
+DhaniBuxGoth	PahlwanGoth
+PahlwanGoth	Al-Shifa
+Al-Shifa	TerminalNo.4
+TerminalNo.4	MalirHalt
+MalirHalt	Quaidabad
+Quaidabad	DawoodChowrangi
+DawoodChowrangi	LandhiNo.4
+LandhiNo.4	36-BArea
+36-BArea	MillsArea
+MillsArea	BilalColony
+BilalColony	KalaPul
+KalaPul	JinnahHospital
+JinnahHospital	CanttStation
+CanttStation	Gizri
+
+Hyderi	BhittaiColony
+BhittaiColony	Qayyumabad
+Qayyumabad	ToobaMasjid
+ToobaMasjid	KalaPul
+KalaPul	JinnahHospital
+JinnahHospital	CanttStation
+CanttStation	Dr.ZiauddinAhmedRoad
+Dr.ZiauddinAhmedRoad	P.I.D.C
+P.I.D.C	PakistanChowk
+PakistanChowk	CivilHospital
+CivilHospital	K.M.CWorkShop
+K.M.CWorkShop	SpensorEyeHospital
+SpensorEyeHospital	BhitaiRoad
+BhitaiRoad	Baghdadi
+Baghdadi	AghaKhanRoad
+AghaKhanRoad	JamatKhana
+JamatKhana	I.C.I
+I.C.I	FisheriesBadhniGoth
+FisheriesBadhniGoth	NavalColony
+NavalColony	GraceMauripur
+GraceMauripur	Gulbai
+Gulbai	MauripurTruckAdda
+MauripurTruckAdda	G.AllanaRoad
+G.AllanaRoad	
+
+Tower	CityStation
+CityStation	Khairabad
+Khairabad	P.I.D.C
+P.I.D.C	TajHotel
+TajHotel	PunjabColony
+PunjabColony	SunsetBulevard
+SunsetBulevard	AkhterColony
+AkhterColony	Qayyumabad
+Qayyumabad	KorangiCrossing
+KorangiCrossing	AllahwalaTown
+AllahwalaTown	GulzarColony
+GulzarColony	
+
+QasbaColony	ManghopirRoad
+ManghopirRoad	NusratBhuttoColony
+NusratBhuttoColony	SakhiHasan
+SakhiHasan	Hyderi
+Hyderi	Dr.ZiauddinHospital
+Dr.ZiauddinHospital	Karimabad
+Karimabad	Liaquatabad
+Liaquatabad	TeenHati
+TeenHati	GuruMandir
+GuruMandir	Numaish
+Numaish	KhudadadColony
+KhudadadColony	
+
+Nursery	GoraQabristan
+GoraQabristan	Defence
+Defence	AkhterColony
+AkhterColony	KorangiNo.1
+KorangiNo.1	KorangiNo.3
+KorangiNo.3	KorangiNo.51/2
+KorangiNo.51/2	KorangiNo.5
+KorangiNo.5	DhobiGhat
+DhobiGhat	DegreeCollege
+DegreeCollege	KorangiMarket
+KorangiMarket	KorangiNo.6
+KorangiNo.6	LandhiNo.6
+LandhiNo.6	
+
+LandhiNo.1	DawoodChowrangi
+DawoodChowrangi	GulAhmed
+GulAhmed	HospitalChowrangi
+HospitalChowrangi	labourSquare
+labourSquare	MachineToolFactory
+MachineToolFactory	
+
+ZiaulHaqColony	Mominabad
+Mominabad	OrangiNo.4
+OrangiNo.4	OrangiNo.5
+OrangiNo.5	MetroCinema
+MetroCinema	BanarasChowk
+BanarasChowk	
+
+AbdullahCollege	PaposhNagar
+PaposhNagar	NazimabadPetrolPump
+NazimabadPetrolPump	LiaquatabadNo.10
+LiaquatabadNo.10	TeenHati
+TeenHati	GuruMandir
+GuruMandir	Numaish
+Numaish	Shahrah-e-Quaideen
+Shahrah-e-Quaideen	Nusery
+Nusery	GoraQabristan
+GoraQabristan	KalaPul
+KalaPul	Defence
+Defence	AkhtarColony
+AkhtarColony	Qayyumabad
+Qayyumabad	ChamraChowrangi
+ChamraChowrangi	IndustrialArea
+IndustrialArea	BilalColony
+BilalColony	BismillahStop
+BismillahStop	DhobiGhat
+DhobiGhat	
+
+RafiBunglows	AzeemPure
+AzeemPure	MillatTown
+MillatTown	RetaPlot
+RetaPlot	ShahFaisalColony
+ShahFaisalColony	SanganCinema
+SanganCinema	
+
+ColonyGate	Shahrah-e-Failsal
+Shahrah-e-Failsal	Shaheed-e-Millat
+Shaheed-e-Millat	TariqRoad
+TariqRoad	Shahrah-e-Quaideen
+Shahrah-e-Quaideen	KashmirRoad
+KashmirRoad	DadaBhaiNoorojiRoad
+DadaBhaiNoorojiRoad	DirectorateOfSchoolRoad
+DirectorateOfSchoolRoad	GuruMandir
+GuruMandir	SoldierBazar
+SoldierBazar	JunaMarket
+JunaMarket	Kharadar
+Kharadar	BughdadiAgraTaj
+BughdadiAgraTaj	GUlbai
+GUlbai	PAFMasroor
+PAFMasroor	MariPur
+MariPur	
+
+MianwaliColony	QasbaMour
+QasbaMour	BanarasChowk
+BanarasChowk	AbdullahCollege
+AbdullahCollege	PaposhNagar
+PaposhNagar	AbbasiShaheedHospital
+AbbasiShaheedHospital	NazimabadPetrolPump
+NazimabadPetrolPump	GulbeharChowrangi
+GulbeharChowrangi	BaraBoard
+BaraBoard	Garden
+Garden	DhobiGhat
+DhobiGhat	Bakrapiri
+Bakrapiri	MiranNaka
+MiranNaka	AgraTaj
+AgraTaj	BeharColony
+BeharColony	MauripurRoad
+MauripurRoad	I.C.IBridge
+I.C.IBridge	Fisheries
+Fisheries	
+
+SabziMandi	MaymarPlaza
+MaymarPlaza	SohrabGoth
+SohrabGoth	NaganChowrangi
+NaganChowrangi	MariaHillView
+MariaHillView	LuxuryAppartmentsHabibiaChowk
+LuxuryAppartmentsHabibiaChowk	ShadmanTownQalandriaChowk
+ShadmanTownQalandriaChowk	ShipownerCollege
+ShipownerCollege	PaharGang
+PaharGang	
+
+AbdullahCollege	Banaras
+Banaras	OrangiNo.4
+OrangiNo.4	OrangiNo.5
+OrangiNo.5	FrontierMor
+FrontierMor	Mominabad
+Mominabad	FaqirColony
+FaqirColony	
+
+P.I.BColony	JamshedRoad
+JamshedRoad	JinnahMazar
+JinnahMazar	Plaza
+Plaza	Regal
+Regal	FrereRoad
+FrereRoad	Masjid-e-Khizran
+Masjid-e-Khizran	
+
+Shahrah-e-Iraq	LuckyStar
+LuckyStar	KalaPul
+KalaPul	DefenceSociety
+DefenceSociety	KorangiRoad
+KorangiRoad	AkhterColony
+AkhterColony	PoliceChowki
+PoliceChowki	KorangiNo.1
+KorangiNo.1	KorangiNo.3
+KorangiNo.3	KorangiNo.6
+KorangiNo.6	LandhiPetrolPump
+LandhiPetrolPump	DawoodMills
+DawoodMills	GeedarColony
+GeedarColony	
+
+KorangiNo.4	LandhiNo.6
+LandhiNo.6	Quaidabad
+Quaidabad	MalirCity
+MalirCity	StarGate
+StarGate	NataKhan
+NataKhan	DrighRoad
+DrighRoad	Karsaz
+Karsaz	
+
+Nursery	GoraQabristan
+GoraQabristan	JutlandLines
+JutlandLines	St.PatrickHighSchool
+St.PatrickHighSchool	Shahrah-e-Iraq
+Shahrah-e-Iraq	MirKaramAli
+
+TalpurRoad	RajaGhazanfarAliRoad
+RajaGhazanfarAliRoad	KorangiNo.1
+KorangiNo.1	Quaidabad
+Quaidabad	DrighRoad
+DrighRoad	GoraQabristan
+GoraQabristan	Jetlines
+Jetlines	IqbalSheedRoad
+IqbalSheedRoad	FleetCLub
+FleetCLub	
+
+SarwarShaheedRoad	DawoodPotaRoad
+DawoodPotaRoad	PreedyStreet
+PreedyStreet	Regal
+Regal	Shahrah-e-Liaquat
+Shahrah-e-Liaquat	BurnsRoad
+BurnsRoad	PakistanChowk
+PakistanChowk	
+
+89BusStop	LandhiNo.5
+LandhiNo.5	KorangiNo.5
+KorangiNo.5	KorangiNo.1
+KorangiNo.1	AkhterColony
+AkhterColony	KalaPul
+KalaPul	Cantt.PublicSchool
+Cantt.PublicSchool	Cantt.Station
+Cantt.Station	P.I.D.C
+P.I.D.C	Tower
+Tower	CustomHouse
+CustomHouse	WestWharf
+WestWharf	Fisheries
+Fisheries	
+
+NasirColony	KorangiNo.1
+KorangiNo.1	KorangiNo.5
+KorangiNo.5	LandhiNo.1
+LandhiNo.1	Quaidabad
+Quaidabad	MalirHalt
+MalirHalt	ColonyGate
+ColonyGate	ShabnamCinema
+ShabnamCinema	DrighColonyNo.5
+DrighColonyNo.5	
+
+KorangiMarket	KorangiNo.51/2
+KorangiNo.51/2	LandhiNo.6
+LandhiNo.6	BabarMarket
+BabarMarket	DawoodChowrangi
+DawoodChowrangi	Quaidabad
+Quaidabad	
+
+Malir	NationalHighway
+NationalHighway	DrighRoad
+DrighRoad	Karsaz
+Karsaz	Nursery
+Nursery	Shahrah-e-Quaideen
+Shahrah-e-Quaideen	SocietyOffice
+SocietyOffice	OldNumaish
+OldNumaish	M.AJinnahRoad
+M.AJinnahRoad	Tower
+Tower	WestWharf
+WestWharf	NewMuzaffarabadColony
+NewMuzaffarabadColony	GulAhmedMills
+GulAhmedMills	DawoodChowrangi
+DawoodChowrangi	89BusStop
+89BusStop	BabarMarket
+BabarMarket	
+
+ChiraghHotel	LandhiNo.6
+LandhiNo.6	AuliyaMasjid
+AuliyaMasjid	BurmiColony
+BurmiColony	LandhiK-Area
+LandhiK-Area	KorangiI-Area
+KorangiI-Area	
+
+KorangiNo.5	KorangiNo.1
+KorangiNo.1	BhittaiColony
+BhittaiColony	KorangiCrossing
+KorangiCrossing	Qayyumabad
+Qayyumabad	AkhterColony
+AkhterColony	
+
+Defence	GoraQabristan
+GoraQabristan	Shahrah-e-Quaideen
+Shahrah-e-Quaideen	KhudadadColony
+KhudadadColony	M.A.JinnahRoad
+M.A.JinnahRoad	GuruMandir
+GuruMandir	JahangeerRoad
+JahangeerRoad	TinHatti
+TinHatti	LiaquatabadNo.10
+LiaquatabadNo.10	LiaquatabadNo.4
+LiaquatabadNo.4	Nazimabad
+Nazimabad	HabibBank
+HabibBank	Site
+Site	PathanColony
+PathanColony	AbdulHameedBadayuniCollege
+AbdulHameedBadayuniCollege	CourtRoad
+CourtRoad	CrossFrereRoad
+CrossFrereRoad	MohanRoad
+MohanRoad	M.AJinnahRoad
+M.AJinnahRoad	GardenRoad
+GardenRoad	NationalSuperHighway
+NationalSuperHighway	Liaquatabad
+Liaquatabad	Al-AzamSquare
+Al-AzamSquare	
+
+Dockyard	Tower
+Tower	FrereRoad
+FrereRoad	EmpressMarket
+EmpressMarket	M.AJinnahRoad
+M.AJinnahRoad	GuruMandir
+GuruMandir	Liaquatabad
+Liaquatabad	
+
+Karimabad	WaterPump
+WaterPump	Gulshan-e-Iqbal
+Gulshan-e-Iqbal	
+
+OrangiTown	ZiaChowk
+ZiaChowk	IqbalMarket111/2Orangi
+IqbalMarket111/2Orangi	IslamChowk
+IslamChowk	OrangiNo.5
+OrangiNo.5	BanarasChowk
+BanarasChowk	HabibBank
+HabibBank	PetrolPump
+PetrolPump	Nazimabad
+Nazimabad	LiaquatabadNo.10
+LiaquatabadNo.10	Karimabad
+Karimabad	WaterPump
+WaterPump	
+
+SohrabGoth	N.I.P.AChowrangi
+N.I.P.AChowrangi	Gulshan-e-Iqbal
+Gulshan-e-Iqbal	SafariPark
+SafariPark	RabiCity
+RabiCity	PahlwanGoth
+PahlwanGoth	
+
+YosufGoth	IttehadTown
+IttehadTown	NewSaeedabadPoliceTrainingSchool
+NewSaeedabadPoliceTrainingSchool	HubRiverRoad
+HubRiverRoad	TrafficPoliceKiask
+TrafficPoliceKiask	PhilipsCompany
+PhilipsCompany	Polytechnic
+Polytechnic	S.I.T.EPoliceStation
+S.I.T.EPoliceStation	BhawaniChalli
+BhawaniChalli	FrontierMor
+FrontierMor	
+
+BadarChowk	OrangiNo.4
+OrangiNo.4	OrangiNo.5
+OrangiNo.5	MetroCinema
+MetroCinema	BanarasChowk
+BanarasChowk	AbdullahCollege
+AbdullahCollege	
+
+BoardOffice	BankQtrs
+BankQtrs	ZiauddinHospital
+ZiauddinHospital	MoosaColony
+MoosaColony	APWAGirlsCollege
+APWAGirlsCollege	Karimabad
+Karimabad	
+
+Naseerabad	TelephoneExchange
+TelephoneExchange	WaterPump
+WaterPump	CityGarden
+CityGarden	MotiMehal
+MotiMehal	N.I.P.A
+N.I.P.A	SafariPark
+SafariPark	
+
+Gulistan-e-Jouhar	AbdullahAppartments
+AbdullahAppartments	JouharSquare
+JouharSquare	GoldenCity
+GoldenCity	PahlwanGothOldArea
+PahlwanGothOldArea	
+
+SafooraGoth	TraumaCentre
+TraumaCentre	KiranHospital
+KiranHospital	
+
+Yaqoobabad	OrangiTown
+OrangiTown	MansoorNagar
+MansoorNagar	RahmatChowk
+RahmatChowk	IqbalMarket
+IqbalMarket	IslamChowk
+IslamChowk	Nishane-HyderRoadNo.5
+Nishane-HyderRoadNo.5	BachaKhanChowk
+BachaKhanChowk	PaposhNagar
+PaposhNagar	NazimabadNo.1
+NazimabadNo.1	NazimabadNo.2
+NazimabadNo.2	
+
+PetrolPump	LiaquatabadNo.10
+LiaquatabadNo.10	HassanSquare
+HassanSquare	UrduScienceCollage
+UrduScienceCollage	N.I.P.A
+N.I.P.A	SaFareedColony
+SaFareedColony	19-DNaiAbadi
+19-DNaiAbadi	Rasheedabad
+Rasheedabad	PolictechnicCollege
+PolictechnicCollege	RasheedTextileMills
+RasheedTextileMills	
+
+BanarasChowk	AbdullahCollege
+AbdullahCollege	BoardOffice
+BoardOffice	Hyderi
+Hyderi	ZiauddinHospital
+ZiauddinHospital	LiaquatabadNo.10
+LiaquatabadNo.10	Goharabad
+Goharabad	HassanSquare
+HassanSquare	UniversityRoad
+UniversityRoad	
+
+IttehadTown	Naiabadi
+Naiabadi	FareedColony
+FareedColony	FaqirColony
+FaqirColony	Mominabad
+Mominabad	Frontiermor
+Frontiermor	HabibChowrangi
+HabibChowrangi	Valikamills
+Valikamills	habibbank
+habibbank	PetrolPump
+PetrolPump	Nazimabad
+Nazimabad	LiaquatabadNo10
+LiaquatabadNo10	Teenhatti
+Teenhatti	
+
+P.I.BColony	JailRoad
+JailRoad	ShaheedmillatRoad
+ShaheedmillatRoad	BalochColony
+BalochColony	Qayumabad
+Qayumabad	BiscuitFactory
+BiscuitFactory	
+
+ChamraChowrangi	SinferChowrangi
+SinferChowrangi	ShareefaGoth
+ShareefaGoth	MansehraColony
+MansehraColony	DawoodChowrangi
+DawoodChowrangi	
+
+SherpaoColony	SessiHospital
+SessiHospital	CattelColony
+CattelColony	
+
+IttehadTown	naiabadi
+naiabadi	GulshanGhazi
+GulshanGhazi	FareedColony
+FareedColony	UrduChowk
+UrduChowk	OrangiNo5
+OrangiNo5	BanarasChowk
+BanarasChowk	Valikamills
+Valikamills	Habibbank
+Habibbank	Nazimabad
+Nazimabad	LiaquatabadNo10
+LiaquatabadNo10	Gharibabad
+Gharibabad	Ishaqabadbridgh
+Ishaqabadbridgh	
+
+Hassansquare	UniversityRoad
+UniversityRoad	MetrologecalDepartment
+MetrologecalDepartment	Gulistan-e-johar
+Gulistan-e-johar	
+
+GulCity	MoachGoth
+MoachGoth	RubyTurn
+RubyTurn	Saeedabad
+Saeedabad	PareshanChowk
+PareshanChowk	FaqirColony
+FaqirColony	BadarChowkNo4
+BadarChowkNo4	BadarChowkNo5
+BadarChowkNo5	BachakhanChowk
+BachakhanChowk	Abdullahcollege
+Abdullahcollege	Boardoffice
+Boardoffice	Khayaban-e-shershah
+Khayaban-e-shershah	sooriRoad
+sooriRoad	Hyderi
+Hyderi	SakhiHasan
+SakhiHasan	NaganChowrangi
+NaganChowrangi	SohrabGoth
+SohrabGoth	ShahrahPakistan
+ShahrahPakistan	ScoutColony
+ScoutColony	AbulHassanIsphahaniRoad
+AbulHassanIsphahaniRoad	SafariPark
+SafariPark	University
+University	SafooraGoth
+SafooraGoth	GulCity
+GulCity	
+
+AlahmedTown	HubdamRoadharrimasjid
+HubdamRoadharrimasjid	Manghopir
+Manghopir	KawariColony
+KawariColony	BalochColony
+BalochColony	Qasbamor
+Qasbamor	BachakhanChowk
+BachakhanChowk	Valikahospital
+Valikahospital	Habibbank
+Habibbank	BaraBoard
+BaraBoard	Jehangirabad
+Jehangirabad	GolimarChowrangi
+GolimarChowrangi	LiaquatabadNo10
+LiaquatabadNo10	Gharibabad
+Gharibabad	HassanSquare
+HassanSquare	UniversityRoad
+UniversityRoad	N.I.P.A
+N.I.P.A	RashidMinhasRoad
+RashidMinhasRoad	JalendhriRoad
+JalendhriRoad	PahlwanGoth
+PahlwanGoth	GulCity
+GulCity	
+
+PahalwanGoth	SafariPark
+SafariPark	UniversityRoad
+UniversityRoad	N.I.P.A
+N.I.P.A	HassanSquare
+HassanSquare	JailRoad
+JailRoad	Shaheed-eMillatRoad
+Shaheed-eMillatRoad	NewBridgeBalochColony
+NewBridgeBalochColony	NewBundChowrangi
+NewBundChowrangi	BilalChowrangi
+BilalChowrangi	Landhi
+Landhi	BabarMarket
+BabarMarket	HospitalChowrangi
+HospitalChowrangi	BhenseColony
+BhenseColony	
+
+Gulistan-e-joharNo.10	Jauharsquare
+Jauharsquare	Drive-in-cinema
+Drive-in-cinema	N.I.P.A
+N.I.P.A	Samdanihospital
+Samdanihospital	Yasinabad
+Yasinabad	
+
+AishaManzil	Landhikotal
+Landhikotal	Fivestar
+Fivestar	NorthNazimabad
+NorthNazimabad	Hyderi
+Hyderi	Boardoffice
+Boardoffice	Abdullahcollege
+Abdullahcollege	
+
+BanarasColony	OrangiNo4
+OrangiNo4	BadarHotel
+BadarHotel	Mominabad
+Mominabad	Rasheedabad
+Rasheedabad	
+
+KarachiUniversity	UniversityRoad
+UniversityRoad	HyderabadColony
+HyderabadColony	SabilwalaMosque
+SabilwalaMosque	OldExhibition
+OldExhibition	M.AJinnahRoad
+M.AJinnahRoad	MirKaramAliTalpurRoad
+MirKaramAliTalpurRoad	
+
+Fisheries	KhaddaMarket
+KhaddaMarket	MemonSociety
+MemonSociety	MosaLane
+MosaLane	LeeMarket
+LeeMarket	OldHajiCamp
+OldHajiCamp	NishterRoad
+NishterRoad	Garden
+Garden	LasbellaChowk
+LasbellaChowk	TeenHatti
+TeenHatti	JailRoad
+JailRoad	SabziMandi
+SabziMandi	CountryclubRoad
+CountryclubRoad	
+
+Gulshan-e-Iqbal	RashdMinhasRoad
+RashdMinhasRoad	MuscutIndustries
+MuscutIndustries	
+
+KarachiUniversity	SuiGasTerminus
+SuiGasTerminus	ScoutColony
+ScoutColony	RashidMinhasRoad
+RashidMinhasRoad	WaterPump
+WaterPump	FedralB.Area
+FedralB.Area	DastagirNo.16
+DastagirNo.16	AyubManzil
+AyubManzil	Hussainabad
+Hussainabad	Aliabad
+Aliabad	Karimabad
+Karimabad	Liaquatabad
+Liaquatabad	TeenHatti
+TeenHatti	GoroMandir
+GoroMandir	PuraniNumaish
+PuraniNumaish	TibetCentre
+TibetCentre	JamaClothMarket
+JamaClothMarket	CityCourt
+CityCourt	Tower
+Tower	PunjabiClub
+PunjabiClub	KhojaJamatKhana
+KhojaJamatKhana	Gulbai
+Gulbai	
+
+MohajirCamp	Gulshan-e-Ghazi
+Gulshan-e-Ghazi	NaiAbadi
+NaiAbadi	MohajirCampNo.7
+MohajirCampNo.7	MohajirCampNo.8
+MohajirCampNo.8	
+
+Shershah	Gulbai
+Gulbai	AgraTaj
+AgraTaj	Tower
+Tower	BoltonMarket
+BoltonMarket	JamaClothMarket
+JamaClothMarket	M.AJinnah
+M.AJinnah	Numaish
+Numaish	
+
+KhudadadColony	SocietyGraveyard
+SocietyGraveyard	TariqRoad
+TariqRoad	Bahadurabad
+Bahadurabad	NewTown
+NewTown	SabziMandi
+SabziMandi	Gulshan-e-Iqbal
+Gulshan-e-Iqbal	University
+University	SafooraGoth
+SafooraGoth	
+
+MetrologicalOffice	DhabiBuxGoth
+DhabiBuxGoth	RustamGoth
+RustamGoth	RoyalStop
+RoyalStop	JuharSquare
+JuharSquare	SafariPark
+SafariPark	
+
+N.I.P.AChowrangi	AzizBhattiPark
+AzizBhattiPark	K.D.ACivicCentre
+K.D.ACivicCentre	SabziMandi
+SabziMandi	JamshedRoad
+JamshedRoad	GoroMandir
+GoroMandir	7thDayHospital
+7thDayHospital	M.AJinnahRoad
+M.AJinnahRoad	CityCourt
+CityCourt	JunaMarket
+JunaMarket	LeeMarket
+LeeMarket	Kharadar
+Kharadar	
+
+JamatKhana	Kemari
+Kemari	DakKhana
+DakKhana	MasanRoad
+MasanRoad	SheerijinnahCollege
+SheerijinnahCollege	
+
+IttehadTown	NaiAbadi
+NaiAbadi	19-DQabrustan
+19-DQabrustan	MohajirCampNo.7
+MohajirCampNo.7	MohajirCampNo.4
+MohajirCampNo.4	Shershah
+Shershah	
+
+MiraNaka	Chakiwara
+Chakiwara	LeeMarket
+LeeMarket	SiddiqWahabRoad
+SiddiqWahabRoad	OldHajiCamp
+OldHajiCamp	LawrenceRoad
+LawrenceRoad	
+
+Garden	Lasbela
+Lasbela	TeenHatti
+TeenHatti	JailRoad
+JailRoad	SabziMandi
+SabziMandi	HassanSquare
+HassanSquare	N.I.P.A
+N.I.P.A	SafariPark
+SafariPark	Gulistan-e-Jouhar
+Gulistan-e-Jouhar	PahlwanGoth
+PahlwanGoth	
+
+LeeMarket	HarichandraiRoad
+HarichandraiRoad	HajiCamp
+HajiCamp	LawrenceRoad
+LawrenceRoad	M.AJinnahRoad
+M.AJinnahRoad	FrereRoad
+FrereRoad	
+
+CourtRoad	StretchenRoad
+StretchenRoad	FatimahJinnahRoad
+FatimahJinnahRoad	InvararityRoad
+InvararityRoad	LuckyStarHotel
+LuckyStarHotel	JinnahHospital
+JinnahHospital	KalaPul
+KalaPul	KorangiRoad
+KorangiRoad	IbrahimHyder
+IbrahimHyder	
+
+FleetClub	IqbalShaheedRoad
+IqbalShaheedRoad	RafiqueShaheedRoad
+RafiqueShaheedRoad	JinnahHospital
+JinnahHospital	KalaPul
+KalaPul	KorangiRoad
+KorangiRoad	
+
+AbroSaltWorks	IbrahimHyder
+IbrahimHyder	KorangiRoad
+KorangiRoad	DefenceSociety
+DefenceSociety	JinnahHospiutal
+JinnahHospiutal	FleetClub
+FleetClub	Mansfield
+Mansfield	Shahra-e-Iraq
+Shahra-e-Iraq	DawoodPotaRoad
+DawoodPotaRoad	M.AJinnahRoad
+M.AJinnahRoad	CityCourt
+CityCourt	JunaMaket
+JunaMaket	LeeMarket
+LeeMarket	KakriGround
+KakriGround	AghaKhanRoad
+AghaKhanRoad	KhojaJamatKhana
+KhojaJamatKhana	WestWharf
+WestWharf	FStation
+FStation	I.IChundrigarRoad
+I.IChundrigarRoad	M.RKiyaniRoad
+M.RKiyaniRoad	Mansfield
+Mansfield	M.AJinnahRoad
+M.AJinnahRoad	ClaytonRoad
+ClaytonRoad	PIBColony
+PIBColony	FrereRoad
+FrereRoad	PreedyStation
+PreedyStation	
+
+PIBColony	DangeraiRoad
+DangeraiRoad	NewM.AJinnahRoad
+NewM.AJinnahRoad	Mazar-e-Quaid
+Mazar-e-Quaid	OldExhibition
+OldExhibition	M.AJinnahRoad
+M.AJinnahRoad	Tower
+Tower	Dockyard
+Dockyard	
+
+NewTownMosque	CliftonRoad
+CliftonRoad	M.AJinnahRoad
+M.AJinnahRoad	Keamari
+Keamari	Dockyard
+Dockyard	Tower
+Tower	M.AJinnahRoad
+M.AJinnahRoad	Mazar-e-Quaid
+Mazar-e-Quaid	Shahra-e-Quaiden
+Shahra-e-Quaiden	TariqRoad
+TariqRoad	
+
+Bahadurabad	DhorajiColony
+DhorajiColony	SailaniColony
+SailaniColony	MuhammadAliChowk
+MuhammadAliChowk	Shahra-e-Faisal
+Shahra-e-Faisal	BalochColony
+BalochColony	Shaheed-e-MillatRoad
+Shaheed-e-MillatRoad	Quyumabad
+Quyumabad	
+
+AdamjeeRoad	Society
+Society	JailRoad
+JailRoad	NewM.AJinnahRoad
+NewM.AJinnahRoad	Mazar-e-Quaid
+Mazar-e-Quaid	OldExhibition
+OldExhibition	M.AJinnahRoad
+M.AJinnahRoad	N.S.CBuilding
+N.S.CBuilding	
+
+AgraTajColony	Daryabad
+Daryabad	BaghdadiP.SNoorabad
+BaghdadiP.SNoorabad	ShahWaliullahRoad
+ShahWaliullahRoad	CafeNawabad
+CafeNawabad	
+
+EnrollmentRoad	JamatKhana
+JamatKhana	Tower
+Tower	McleodRoad
+McleodRoad	CityCourt
+CityCourt	JunaMarket
+JunaMarket	LawrenceRoad
+LawrenceRoad	
+
+K.M.CWorkshop	Garden
+Garden	SoldierBazar
+SoldierBazar	GoroMandir
+GoroMandir	Shahra-e-Quaiden
+Shahra-e-Quaiden	TariqRoad
+TariqRoad	CafeLiberty
+CafeLiberty	Bahadurabad
+Bahadurabad	KachiMemonSociety
+KachiMemonSociety	Dhoraji
+Dhoraji	GhaziSalahuddinRoad
+GhaziSalahuddinRoad	
+
+MasjidAdamjeeNagar	DhorajiColony
+DhorajiColony	Bahadurabad
+Bahadurabad	Soceity
+Soceity	TariqRoad
+TariqRoad	SocietyOfficeGoroMandir
+SocietyOfficeGoroMandir	BandarRoad
+BandarRoad	TibetBuilding
+TibetBuilding	RegalChowk
+RegalChowk	FrereRoad
+FrereRoad	JamaClothMarket
+JamaClothMarket	Tower
+Tower	KeamariK.P.TGround
+KeamariK.P.TGround	
+
+P.A.FMasroor	AgraTaj
+AgraTaj	Tower
+Tower	AramBagh
+AramBagh	FrereRoad
+FrereRoad	Saddar
+Saddar	EmpressMarket
+EmpressMarket	Jutland
+
+Lines	Nursery
+Nursery	TariqRoad
+TariqRoad	Bahadurabad
+Bahadurabad	DhorajiColony
+DhorajiColony	
+
+Gulshan-e-Behar	OrangiTownNo.6
+OrangiTownNo.6	OrangiTownNo.14
+OrangiTownNo.14	OrangiTownNo.13
+OrangiTownNo.13	OrangiTownNo.12
+OrangiTownNo.12	OrangiTownNo.5
+OrangiTownNo.5	MetroCinema
+MetroCinema	AbdullahCollege
+AbdullahCollege	PaposhNagar
+PaposhNagar	NazimabadPetrolPump
+NazimabadPetrolPump	LiaquatabadNo.10
+LiaquatabadNo.10	Numaish
+Numaish	Nursery
+Nursery	F.T.C
+F.T.C	KalaPul
+KalaPul	Defence
+Defence	AkhtarColony
+AkhtarColony	
+
+Qayyumabad	KorangiNo.1
+KorangiNo.1	KorangiNo.6
+KorangiNo.6	LandhiNo.1
+LandhiNo.1	LandhiNo.6
+LandhiNo.6	DawoodChowrangi
+DawoodChowrangi	MuzafarabadChowrangi
+
+ScoutColony	RashidMinhasRoad
+RashidMinhasRoad	Gulshan
+Gulshan	NewDhorajiColony
+NewDhorajiColony	QyubManzil
+QyubManzil	ImamHospital
+ImamHospital	
+
+DastagirNo.9	Aliabad
+Aliabad	Azizabad
+Azizabad	Hussainabad
+Hussainabad	Gharibabad
+Gharibabad	Liaquatabad
+Liaquatabad	PostOffice
+PostOffice	FirdousColony
+FirdousColony	GolimarChowrangi
+GolimarChowrangi	Jehangirabad
+Jehangirabad	BaraBoard
+BaraBoard	PakistanQuarters
+PakistanQuarters	Garden
+Garden	Nishter
+
+Road	JuunaMarket
+JuunaMarket	LeeMarket
+LeeMarket	KhajoorMarket
+KhajoorMarket	KakriRoad
+KakriRoad	GymkhanaClub
+GymkhanaClub	Kharadar
+Kharadar	Tower
+Tower	WestWharfRoad
+
+AsifCentreSuperHighway	WaterPump
+WaterPump	SohrabGoth
+SohrabGoth	AishaManzil
+AishaManzil	Karimabad
+Karimabad	Liaquatabad
+Liaquatabad	
+
+TeenHatti	LasbelaHouse
+LasbelaHouse	Garden
+Garden	RamSwami
+RamSwami	CivilHospital
+CivilHospital	WestWharf
+WestWharf	Dockyard
+Dockyard	
+
+IslamNagar	FaqirColony
+FaqirColony	Mominabad
+Mominabad	Metroville
+Metroville	FronteirColony
+FronteirColony	BhawaniChalli
+BhawaniChalli	S.I.T.E
+S.I.T.E	
+
+PoliceStation	GhaniChowrangi
+GhaniChowrangi	Shershah
+Shershah	Gulbai
+Gulbai	MauriPur
+MauriPur	Tower
+Tower	Keamari
+Keamari	MasanRoad
+MasanRoad	ShirinJinnahColony
+ShirinJinnahColony	Shahra-e-GhalibChowrangi
+Shahra-e-GhalibChowrangi	Shahra-e-Firdousi
+Shahra-e-Firdousi	MazarAbdullahGhazi
+MazarAbdullahGhazi	Khayaban-e-Shamsheer
+Khayaban-e-Shamsheer	SaudiEmbassy
+SaudiEmbassy	KhaliquzzamanRoad
+KhaliquzzamanRoad	PunjabColony
+PunjabColony	Sunset
+Sunset	Bulivard
+Bulivard	KorongiRoad
+KorongiRoad	NavalColony
+NavalColony	FareedColony
+FareedColony	UrduChowk
+UrduChowk	OrangiNo.10
+OrangiNo.10	OrangiNo.5
+OrangiNo.5	Metro
+Metro	Banaras
+Banaras	HabibBank
+HabibBank	Shershah
+Shershah	Gulbai
+Gulbai	MauriPur
+MauriPur	Tower
+Tower	M.TKhanRoad
+M.TKhanRoad	P.I.D.C
+P.I.D.C	CanttStation
+CanttStation	JinnahHospital
+JinnahHospital	KalaPul
+KalaPul	DefenceSociety
+DefenceSociety	AkhterColony
+AkhterColony	QuyumabadChowk
+QuyumabadChowk	BuscuitFactory
+BuscuitFactory	ChamraChowrangi
+ChamraChowrangi	SurjaniTownSector10
+SurjaniTownSector10	KalaSchool
+KalaSchool	U.PSociety
+U.PSociety	NaganChowrangi
+NaganChowrangi	SohrabGoth
+SohrabGoth	Karimabad
+Karimabad	Liaquatabad
+Liaquatabad	Numaish
+Numaish	Shaharh-e-Quaideen
+Shaharh-e-Quaideen	F.T.C
+F.T.C	GoraQabristan
+GoraQabristan	KalaPul
+KalaPul	JinnahHospital
+JinnahHospital	
+
+AskariAppartment	CanttStation
+CanttStation	Ch.KhaliquzzamanRoad
+Ch.KhaliquzzamanRoad	Gizri
+Gizri	
+
+DehliSaudagarColony	MalirSchemeNo.1
+MalirSchemeNo.1	Azimpura
+Azimpura	ShahFaisalColonyNo.3
+ShahFaisalColonyNo.3	DrighColonyNo.2
+DrighColonyNo.2	DrighColonyNo.1
+DrighColonyNo.1	NathaKhanGoth
+NathaKhanGoth	DrighRoad
+DrighRoad	Station
+Station	JailRoad
+JailRoad	TeenHatti
+TeenHatti	Liaquatabad
+Liaquatabad	PostOffice
+PostOffice	NazimabadNo.1
+NazimabadNo.1	NazimabadNo.2
+NazimabadNo.2	HabibBank
+HabibBank	Liaquatabad
+Liaquatabad	No.10
+No.10	Liaquatabad
+Liaquatabad	No.4
+No.4	Gujjarnala
+Gujjarnala	PetrolPump
+PetrolPump	NazimabadNo.1
+NazimabadNo.1	NazimabadNo.2
+NazimabadNo.2	HabibBank
+HabibBank	ValikaMills
+ValikaMills	PathanColony
+PathanColony	BhainsColony
+BhainsColony	QasbaMour
+QasbaMour	OrangiNo.1
+OrangiNo.1	OrangiNo.7
+OrangiNo.7	OrangiNo.13
+OrangiNo.13	OrangiNo.14
+OrangiNo.14	Gulshan-e-Bihar
+Gulshan-e-Bihar	MemomGoth
+MemomGoth	JamaGoth
+JamaGoth	MullaIssa
+MullaIssa	OldThana
+OldThana	AssoGoth
+AssoGoth	DondGoth
+DondGoth	Shahra-e-Rasisal
+Shahra-e-Rasisal	DrighRoad
+DrighRoad	Station
+Station	Dalmia
+Dalmia	CementFactory
+CementFactory	NationalStadium
+NationalStadium	JailRoad
+JailRoad	P.I.BColony
+P.I.BColony	TeenHatti
+TeenHatti	Lasbela
+Lasbela	Garden
+Garden	ShoeMarket
+ShoeMarket	RanchoreLane
+RanchoreLane	HajiCamp
+HajiCamp	LeeMarket
+LeeMarket	Chakiwara
+Chakiwara	Shershah
+Shershah	R.C.DHighway
+R.C.DHighway	
+
+Gulshan-e-HadeedPhaseII	Gulshan-e-HadeedPhaseI
+Gulshan-e-HadeedPhaseI	SteelTown
+SteelTown	Pipri
+Pipri	BhenseColony
+BhenseColony	
+
+Quaidabad	MalirHalt
+MalirHalt	StarGate
+StarGate	Karsaz
+Karsaz	Nursery
+Nursery	F.T.C
+F.T.C	FleetClub
+FleetClub	Station
+Station	MainCliftonRoad
+MainCliftonRoad	MazarAbdullahShahGhazi
+MazarAbdullahShahGhazi	KinaraHotel
+KinaraHotel	
+
+HussainD'SilvaTown	PaposhNagar
+PaposhNagar	BaraMaidan
+BaraMaidan	ChotaMaidan
+ChotaMaidan	ChowrangiNo.2
+ChowrangiNo.2	Golimar
+Golimar	NazrulIslamRoad
+NazrulIslamRoad	M.AJinnahRoad
+M.AJinnahRoad	Keamari
+Keamari	
+
+SurjaniTownSector7-D	FaizabadSector7-A
+FaizabadSector7-A	FaizabadSector7-B
+FaizabadSector7-B	FaizabadSector4-A
+FaizabadSector4-A	
+
+Muslimabad	U.PSoceity
+U.PSoceity	NaganChowrangi
+NaganChowrangi	PowerHouse
+PowerHouse	Al-NoorSociety
+Al-NoorSociety	Gulberg
+Gulberg	WaterPump
+WaterPump	AishaManzil
+AishaManzil	Karimabad
+Karimabad	LiaquatabadNo.10
+LiaquatabadNo.10	TeenHatti
+TeenHatti	Lasbela
+Lasbela	Garden
+Garden	Ranchoriline
+Ranchoriline	
+
+PurranHagiCamp	LeeMarket
+LeeMarket	Kharadar
+Kharadar	Tower
+Tower	
+
+NavalColony	MoachGoth
+MoachGoth	HubRiverRoad
+HubRiverRoad	Shershah
+Shershah	Gulbai
+Gulbai	WazirMansion
+WazirMansion	JamatKhana
+JamatKhana	
+
+Tower	CityPostOffice
+CityPostOffice	JamaClothMarket
+JamaClothMarket	M.AJinnahRoad
+M.AJinnahRoad	SaeedManzil
+SaeedManzil	Numaish
+Numaish	Shahrae-Quaiden
+Shahrae-Quaiden	KhaledBinWalidRoad
+KhaledBinWalidRoad	Shaheed-e-MillatRoad
+Shaheed-e-MillatRoad	BalochColony
+BalochColony	MehmodabadNo.6
+MehmodabadNo.6	
+
+BhenseColony	KhokhraparNo.1
+KhokhraparNo.1	KhokhraparNo.4
+KhokhraparNo.4	Saudabad
+Saudabad	LiaquatMarket
+LiaquatMarket	MalirCity
+MalirCity	
+
+FaisalRoad	Karsaz
+Karsaz	Stadium
+Stadium	NewTown
+NewTown	JailRoad
+JailRoad	TeenHatti
+TeenHatti	LiaquatabadNo.10
+LiaquatabadNo.10	PetrolPump
+PetrolPump	NazimabadNo.2
+NazimabadNo.2	Baramaidan
+Baramaidan	PaposhNagar
+PaposhNagar	AbdullahCollege
+AbdullahCollege	BanarasColony
+BanarasColony	QasbaMour
+QasbaMour	KorangiNo.7
+KorangiNo.7	KorangiNo.8
+KorangiNo.8	KorangiNo.13
+KorangiNo.13	KorangiNo.14
+KorangiNo.14	NooraniMasjidBlock20FedralB.Area
+NooraniMasjidBlock20FedralB.Area	Gulberg
+Gulberg	WaterPump
+WaterPump	Nasirabad
+Nasirabad	AishaManzil
+AishaManzil	
+
+Dastagir	Azizabad
+Azizabad	Gharibabad
+Gharibabad	LiaquatabadNo.10
+LiaquatabadNo.10	TeenHatti
+TeenHatti	JailRoad
+JailRoad	NewTown
+NewTown	P.A.FStopGate
+P.A.FStopGate	NafeesCinema
+NafeesCinema	Saudabad
+Saudabad	KhokhraparNo.6
+KhokhraparNo.6	
+
+Khokhrapar	Saudabad
+Saudabad	Tanki
+Tanki	KalaBoard
+KalaBoard	MalirHalt
+MalirHalt	StarGate
+StarGate	Shahra-e-Faisal
+Shahra-e-Faisal	Karsaz
+Karsaz	
+
+Stadium	SabziMandi
+SabziMandi	HassanSquare
+HassanSquare	LiaquatabadNo.10
+LiaquatabadNo.10	Nazimabad
+Nazimabad	HabibBank
+HabibBank	ValikaMills
+ValikaMills	ManghopirRoad
+ManghopirRoad	S.I.T.E
+S.I.T.E	Metriville
+Metriville	
+
+MalirCityPetrolPump	MoosaHotel
+MoosaHotel	AsooGoth
+AsooGoth	NadiKinara
+NadiKinara	BhirooGoth
+BhirooGoth	OldThana
+OldThana	MullahIssaGoth
+MullahIssaGoth	JamGoth
+JamGoth	MemonMullahIssaGoth
+MemonMullahIssaGoth	MemonGoth
+MemonGoth	KhaskheliGoth
+KhaskheliGoth	HussainD'Silva
+HussainD'Silva	
+
+ExtensionMalirCityPetrolPump	IbrahimHyderi
+IbrahimHyderi	MalirMandir
+MalirMandir	MurgheeKhana
+MurgheeKhana	Quaidabad
+Quaidabad	
+
+DawoodChourangi	LandhiNo.1
+LandhiNo.1	LandhiNo.6
+LandhiNo.6	KorangiNo.4
+KorangiNo.4	KorangiNo.21/2
+KorangiNo.21/2	CoastGuards
+CoastGuards	
+
+MansfieldStreet	PrinceStreet
+PrinceStreet	DawoodPotaRoad
+DawoodPotaRoad	M.AJinnahRoad
+M.AJinnahRoad	7thDayHospital
+7thDayHospital	OldExhibition
+OldExhibition	JailRoad
+JailRoad	StadiumRoad
+StadiumRoad	Karsaz
+Karsaz	NationalHighway
+NationalHighway	KalaBoard
+KalaBoard	Saudabad
+Saudabad	Khokhrapar
+Khokhrapar	
+
+SafuranGoth	QuettaLane
+QuettaLane	AsifMarket
+AsifMarket	TankiNo.4
+TankiNo.4	C.M.HPicaddilyCinemaChowk
+C.M.HPicaddilyCinemaChowk	CanttBazar
+CanttBazar	DairyFarmModelColony
+DairyFarmModelColony	SecurityPrintingPress
+SecurityPrintingPress	MalirHalt
+MalirHalt	Shahra-e-Faisal
+Shahra-e-Faisal	P.A.F
+P.A.F	
+
+Nursery	TajMahalHotel
+TajMahalHotel	JinnahHospital
+JinnahHospital	CanttStation
+CanttStation	SaudiEmbassy
+SaudiEmbassy	M.AGhazi
+M.AGhazi	Clifton
+Clifton	
+
+Asphalt	OilPiriRoad
+OilPiriRoad	Keemari
+Keemari	GhasMandir
+GhasMandir	NettiJatti
+NettiJatti	Tower
+Tower	CustomHouse
+CustomHouse	WestWharafRoad
+WestWharafRoad	Fisheries
+Fisheries	
+
+MalirHalt	MehranDepot
+MehranDepot	ModelColony
+ModelColony	Moenabad
+Moenabad	Saudabad
+Saudabad	LiaquatMarket
+LiaquatMarket	JinnahSquare
+JinnahSquare	
+
+JafferTayyarSociety	MalirCity
+MalirCity	Quaidabad
+Quaidabad	QuaidabadRailwayStationKorangi
+QuaidabadRailwayStationKorangi	Quaters
+Quaters	ChungiNaka
+ChungiNaka	CostGuard
+CostGuard	KorangiNo.21/2
+KorangiNo.21/2	KorangiNo.1
+KorangiNo.1	KorangiCrossing
+KorangiCrossing	
+
+Quyumabad	DefenceView
+DefenceView	BalochColony
+BalochColony	TariqRoadChowrangi
+TariqRoadChowrangi	Shaheed-e-MillatRoad
+Shaheed-e-MillatRoad	JailRoad
+JailRoad	SabziMandi
+SabziMandi	HassanSquare
+HassanSquare	N.I.P.AChowrangi
+N.I.P.AChowrangi	RashidMinhasRoad
+RashidMinhasRoad	MottiMahal
+MottiMahal	CityGarden
+CityGarden	SohrabGoth
+SohrabGoth	Shahrah-e-WaliUllahRoad
+Shahrah-e-WaliUllahRoad	PowerHouse
+PowerHouse	ShafiqMour
+ShafiqMour	GodhraChowk
+GodhraChowk	
+
+IndustrialArea	GhodraNo.7
+GhodraNo.7	SabaCinema
+SabaCinema	AyubGoth
+AyubGoth	
+
+M.E.S	ModelColonyMalirHalt
+ModelColonyMalirHalt	ShahFaisalRailwayStation
+ShahFaisalRailwayStation	Karsaz
+Karsaz	Stadium
+Stadium	JailRoad
+JailRoad	PirColony
+PirColony	LasbelaChowk
+LasbelaChowk	
+
+ChamanColony	Market
+Market	DakKhana
+DakKhana	SindhGovermentHospital
+SindhGovermentHospital	KhokhraparNo.1
+KhokhraparNo.1	Saudabad
+Saudabad	
+
+MalirTanki	BalaBoard
+BalaBoard	MalirNo.15
+MalirNo.15	Quaidabad
+Quaidabad	DawoodChowrangi
+DawoodChowrangi	LandiNo.1
+LandiNo.1	LandiNo.2
+LandiNo.2	
+
+LandiNo.3	LandiNo.4
+LandiNo.4	LandiNo.5
+LandiNo.5	LandiNo.6
+LandiNo.6	KorangiNo.6
+KorangiNo.6	KorangiNo.21/2
+KorangiNo.21/2	BengaliCamp
+BengaliCamp	BilalChowrangi
+BilalChowrangi	BiscuitFactory
+BiscuitFactory	AllahWalaTown
+AllahWalaTown	
+
+Karimabad	NewLinkRoad
+NewLinkRoad	RashidMinhasRoad
+RashidMinhasRoad	UniversityRoad
+UniversityRoad	LandhiNo.3
+LandhiNo.3	LandhiNo.6
+LandhiNo.6	KorangiMarketNo.6
+KorangiMarketNo.6	KorangiNo.51/2
+KorangiNo.51/2	KorangiRoad
+KorangiRoad	DefenceSociety
+DefenceSociety	JinnahHospital
+JinnahHospital	MansfieldStreet
+MansfieldStreet	HijazDairyFarm
+HijazDairyFarm	MirKaramAliTalpurRoad
+MirKaramAliTalpurRoad	KhaddaQuarters
+KhaddaQuarters	Market6
+Market6	TasweerMahal
+TasweerMahal	100Quarters
+100Quarters	DhobiGhat
+DhobiGhat	KorangiNo.51/2
+KorangiNo.51/2	
+
+Korangino.5	Qayumabad
+Qayumabad	DefenceSociety
+DefenceSociety	JinnahHospital
+JinnahHospital	RafiqShaheedRoad
+RafiqShaheedRoad	FleetClub
+FleetClub	IqbalShaheedRoad
+IqbalShaheedRoad	
+
+OldHajiCamp	Garden
+Garden	TeenHatti
+TeenHatti	JailRoad
+JailRoad	DrighRoad
+DrighRoad	NationalHighway
+NationalHighway	MalirCity
+MalirCity	MemonGoth
+MemonGoth	DamlotiNo.3
+DamlotiNo.3	DamlotiNo.6
+DamlotiNo.6	Kathore
+Kathore	Kadiji
+Kadiji	
+
+Al-AhmedTown	NorthKarachi
+NorthKarachi	NaAbadi
+NaAbadi	AchanakHotal
+AchanakHotal	Baradari
+Baradari	DiscoMor
+DiscoMor	NaganChowrangi
+NaganChowrangi	SakhiHassan
+SakhiHassan	Hyderi
+Hyderi	BoadOffice
+BoadOffice	PetrolPumpNazimabadNo.2
+PetrolPumpNazimabadNo.2	HabibBank
+HabibBank	BaraBoard
+BaraBoard	Golimar
+Golimar	Garden
+Garden	JamaClothMarket
+JamaClothMarket	PakistanChowk
+PakistanChowk	P.I.D.C
+P.I.D.C	CanttStation
+CanttStation	DehliColony
+DehliColony	MazarAbdullahShahGhazi
+MazarAbdullahShahGhazi	Khayaban-e-Attar
+Khayaban-e-Attar	SeaView
+SeaView	Khayaban-e-Sadi
+Khayaban-e-Sadi	KharadarChowrangi
+KharadarChowrangi	BoadBasin
+BoadBasin	Khayaban-e-Roomi
+Khayaban-e-Roomi	Khayaban-e-Jami
+Khayaban-e-Jami	SunsetBulyard
+SunsetBulyard	KorangiRoad
+KorangiRoad	KalaPull
+KalaPull	Mehmodabad
+Mehmodabad	ManzoorColony
+ManzoorColony	19-DSaeedabad
+19-DSaeedabad	HabibBank
+HabibBank	BaraBoard
+BaraBoard	Golimar
+Golimar	Garden
+Garden	DawoodPotaRoad
+DawoodPotaRoad	M.RKiyanRoad
+M.RKiyanRoad	LuckyStar
+LuckyStar	JinnahHospital
+JinnahHospital	KalaPul
+KalaPul	Mehmoodabad
+Mehmoodabad	BalochColony
+BalochColony	
+
+AgraTajColony	RavechandRoad
+RavechandRoad	MarineRoad
+MarineRoad	JamatKhana
+JamatKhana	ThalRamKhimchandRoad
+ThalRamKhimchandRoad	
+
+M.WTower	I.IChundrigarRoad
+I.IChundrigarRoad	WoodStreet
+WoodStreet	FrereRoad
+FrereRoad	Masjid-e-Khizra
+Masjid-e-Khizra	Shahra-e-Iraq
+Shahra-e-Iraq	
+
+FrereStreet	InvarityRoad
+InvarityRoad	HospitalRoad
+HospitalRoad	DrighRoad
+DrighRoad	GoraQabrustan
+GoraQabrustan	KorangiRoad
+KorangiRoad	AktharColony
+AktharColony	Tower
+Tower	
+
+ManzoorColony	MehmoodabadNo.6
+MehmoodabadNo.6	CorporationGate
+CorporationGate	ChannasarGoth
+ChannasarGoth	KalaPul
+KalaPul	JinnahHospital
+JinnahHospital	FleetClub
+FleetClub	MansfelfStreet
+MansfelfStreet	MuBarakShaheedRoad
+MuBarakShaheedRoad	JetLines
+JetLines	GoraQabrustan
+GoraQabrustan	
+
+Shahra-e-Faisal	Nursery
+Nursery	TariqRoad
+TariqRoad	Shaheed-e-MillatRoad
+Shaheed-e-MillatRoad	Bahadurabad
+Bahadurabad	AlamgirRoad
+AlamgirRoad	Sabzimandi
+Sabzimandi	HassanSquare
+HassanSquare	BhattiPark
+BhattiPark	MouchiMour
+MouchiMour	MottiMahal
+MottiMahal	WaterPump
+WaterPump	AlnoorSociety
+AlnoorSociety	PowerHouse
+PowerHouse	BufferZone
+BufferZone	NaganChowrangi
+NaganChowrangi	U.PMour
+U.PMour	DiscoMour
+DiscoMour	KhawajaAjmairNagri
+KhawajaAjmairNagri	2MinChowrangi
+2MinChowrangi	SurjaniTown
+SurjaniTown	
+
+Al-AsifSquare	SuperHighway
+SuperHighway	Gulshan-e-IqbalBlockNo.4
+Gulshan-e-IqbalBlockNo.4	Gulshan-e-IqbalBlockNo.4-A
+Gulshan-e-IqbalBlockNo.4-A	
+
+GabolGoth	PoliceStation
+PoliceStation	MotiMahalNo.1
+MotiMahalNo.1	HassanSquare
+HassanSquare	SabziMandi
+SabziMandi	AlamgirRoad
+AlamgirRoad	TariqRoad
+TariqRoad	GoraQabrustan
+GoraQabrustan	JetLines
+JetLines	IqbalShaheedRoad
+IqbalShaheedRoad	FleetClub
+FleetClub	MansfieldStreet
+MansfieldStreet	Shahrah-eIraq
+Shahrah-eIraq	DawoodPotaRoad
+DawoodPotaRoad	PreedyStreet
+PreedyStreet	Shahrah-e-Liaquat
+Shahrah-e-Liaquat	BundarRoad
+BundarRoad	Tower
+Tower	Gulbai
+Gulbai	
+
+Shershah	HubRiverRoad
+HubRiverRoad	MohajirCamp
+MohajirCamp	NasirColony
+NasirColony	KorangiIndustrialArea
+KorangiIndustrialArea	Bridge
+Bridge	Qayumabad
+Qayumabad	BalochColony
+BalochColony	MahmoodabadNo.6
+MahmoodabadNo.6	
+
+KalaPul	JinnahHospital
+JinnahHospital	FleetClub
+FleetClub	MansfieldStreet
+MansfieldStreet	JetLines
+JetLines	GoraQabrustan
+GoraQabrustan	Shahra-eFaisal
+Shahra-eFaisal	Nursery
+Nursery	TariqRoad
+TariqRoad	Bahadurabad
+Bahadurabad	SabziMandi
+SabziMandi	Gulshan-e-Iqbal
+Gulshan-e-Iqbal	WaterPump
+WaterPump	Sakhihasan
+Sakhihasan	Gulshan-e-Farooq
+Gulshan-e-Farooq	NorthKarachi
+NorthKarachi	100FeetRoad
+100FeetRoad	AzamBasti
+AzamBasti	CorporationGate
+CorporationGate	KalaPul
+KalaPul	JinnahHospital
+JinnahHospital	LuckStarHotel
+LuckStarHotel	
+
+MansfieldStreet	EmpressMarket
+EmpressMarket	PreedyStreet
+PreedyStreet	Regal
+Regal	TibetCentre
+TibetCentre	M.AJinnahRoad
+M.AJinnahRoad	JamaClothMarket
+JamaClothMarket	CityCourt
+CityCourt	JunaMarket
+JunaMarket	LeeMarket
+LeeMarket	KakriGround
+KakriGround	MasanRoad
+MasanRoad	AgraTajColony
+AgraTajColony	
+
+ManzoorColony	MehmoodabadNo.6.NewSplitLevelRoad
+MehmoodabadNo.6.NewSplitLevelRoad	BalochColony
+BalochColony	HillPark
+HillPark	Shaheed-e-MillatRoad
+Shaheed-e-MillatRoad	NewTown
+NewTown	PoliceStation
+PoliceStation	SabziMandi
+SabziMandi	CivicCentre
+CivicCentre	LiaquatabadNo.10
+LiaquatabadNo.10	Karimabad
+Karimabad	WaterPump
+WaterPump	SohrabGoth
+SohrabGoth	ScoutColony
+ScoutColony	SafariPark
+SafariPark	KarachiUniversity
+KarachiUniversity	SaforaGoth
+SaforaGoth	MohammadKhanGoth
+MohammadKhanGoth	ManzoorColony
+ManzoorColony	Mehmoodabad
+Mehmoodabad	KalaPul
+KalaPul	JinnahHospital
+JinnahHospital	LuckyStar
+LuckyStar	InvararityRoad
+InvararityRoad	
+
+StretchenRoad	PakistanChowk
+PakistanChowk	Baba-e-UrduRoad
+Baba-e-UrduRoad	M.AJinnahRoad
+M.AJinnahRoad	Tower
+Tower	MauripurRoad
+MauripurRoad	Gulbai
+Gulbai	Shershah
+Shershah	Baldia
+Baldia	MohajirCampNo.4
+MohajirCampNo.4	Rasheedabad
+Rasheedabad	
+
+PahlwanGoth	DalmiaCementColony
+DalmiaCementColony	N.I.P.AChowrangi
+N.I.P.AChowrangi	HassanSquare
+HassanSquare	SabziMandi
+SabziMandi	JailRoad
+JailRoad	GoroMandir
+GoroMandir	SoldierBazar
+SoldierBazar	HolyFamilyHospital
+HolyFamilyHospital	Garden
+Garden	JunaMarket
+JunaMarket	LeaMarket
+LeaMarket	
+
+Chakiwara	Shershah
+Shershah	HubRiverRoad
+HubRiverRoad	DubbaColony
+DubbaColony	SwatColony
+SwatColony	ChandniChowk
+ChandniChowk	Saeedabad
+Saeedabad	NaiAbadi
+NaiAbadi	JonijoTown
+JonijoTown	ManzoorColony
+ManzoorColony	EidGah
+EidGah	MehmoodabadNo.5
+MehmoodabadNo.5	MehmoodabadNo.6
+MehmoodabadNo.6	MehmoodabadGate
+MehmoodabadGate	RailwayPhatak
+RailwayPhatak	Nursery
+Nursery	SocietyQabrustan
+SocietyQabrustan	TariqRoad
+TariqRoad	Bahadurabad
+Bahadurabad	
+
+SabziMandi	HassanSquare
+HassanSquare	LiaquatabadNo.10
+LiaquatabadNo.10	Karimabad
+Karimabad	ZiauddinHospital
+ZiauddinHospital	K.D.AChowrangi
+K.D.AChowrangi	ImamHospital
+ImamHospital	Shahrah-e-Humayu
+Shahrah-e-Humayu	SakhiHasan
+SakhiHasan	NaganChowrangi
+NaganChowrangi	SujaniTown
+SujaniTown	
+
+Sultanabad	HubPumpingStation
+HubPumpingStation	Hamdarduniversity
+Hamdarduniversity	Gulshan-e-Ghazi
+Gulshan-e-Ghazi	FareedColony
+FareedColony	GosiaChowk
+GosiaChowk	OrangiNo.10
+OrangiNo.10	OrangiNo.5
+OrangiNo.5	BanarasChowk
+BanarasChowk	
+
+WalikaHospital	HabibBank
+HabibBank	Nazimabad
+Nazimabad	GujjarNala
+GujjarNala	LiaquatabadNo.10
+LiaquatabadNo.10	Gharibabad
+Gharibabad	HassanSquare
+HassanSquare	SabziMandi
+SabziMandi	JailRoad
+JailRoad	Shaheed-e-MillatRoad
+Shaheed-e-MillatRoad	TariqRoad
+TariqRoad	Nursery
+Nursery	S.M.C.H.S
+S.M.C.H.S	GoraQabrustan
+GoraQabrustan	KalaPull
+KalaPull	AkhtarColony
+AkhtarColony	Qayyumabad
+Qayyumabad	Shahrah-e-JammSadiqAli
+Shahrah-e-JammSadiqAli	ChamraChourangi
+ChamraChourangi	BilalColony
+BilalColony	MillsArea
+MillsArea	MansehraColony
+MansehraColony	
+
+GandhiGarden	Lasbela
+Lasbela	TeenHatti
+TeenHatti	JailRoad
+JailRoad	LiaquatHospital
+LiaquatHospital	Karsaz
+Karsaz	NationalHighway
+NationalHighway	DawoodChowrangi
+DawoodChowrangi	BuffallowColonyLandhi
+BuffallowColonyLandhi	
+
+Khokhrapar	Saudabad
+Saudabad	KalaBoard
+KalaBoard	MalirHalt
+MalirHalt	Quaidabad
+Quaidabad	MatchFactory
+MatchFactory	IndustrialArea
+IndustrialArea	MuzaffarabadColony
+MuzaffarabadColony	GeedarColony
+GeedarColony	BhenseColony
+BhenseColony	
+
+OrangiNo.1	KorangiNo.5
+KorangiNo.5	Landhi
+Landhi	Quaidabad
+Quaidabad	Pipri
+Pipri	PakistanSteelMills
+PakistanSteelMills	NewSabziMandi
+NewSabziMandi	MarorGoth
+MarorGoth	UniversityRoad
+UniversityRoad	N.I.P.AChowrangi
+N.I.P.AChowrangi	RashidMinhasRoad
+RashidMinhasRoad	DrighRoad
+DrighRoad	Station
+Station	Shahra-e-Faisal
+Shahra-e-Faisal	MalirHalt
+MalirHalt	MalirCity
+MalirCity	Quaidabad
+Quaidabad	DawoodChowrangi
+DawoodChowrangi	LandiNo.1
+LandiNo.1	LandiNo.3
+LandiNo.3	LandiNo.6
+LandiNo.6	KorangiNo.6
+KorangiNo.6	KorangiNo.3
+KorangiNo.3	KorangiNo.1
+KorangiNo.1	NasirColony
+NasirColony	BhattaiColony
+BhattaiColony	
+
+Masjid-e-Khizra	CowieRoad
+CowieRoad	PreedyStreet
+PreedyStreet	M.AJinnahRoad
+M.AJinnahRoad	JehangirRoad
+JehangirRoad	TeenHatti
+TeenHatti	
+
+Lalukhet	Al-AzamSquare
+Al-AzamSquare	AzizabadChowrangi
+AzizabadChowrangi	GulbergChowrangi
+GulbergChowrangi	PowerHouseRoad
+PowerHouseRoad	AzizMills
+AzizMills	GodhraCamp
+GodhraCamp	NewKarachi5-FAllahwalaMasjid
+NewKarachi5-FAllahwalaMasjid	NewKarachi
+NewKarachi	
+
+NewAbadiSector5-D	NewAbadiSector5-FArea
+NewAbadiSector5-FArea	SindhiHotel
+SindhiHotel	U.PSociety
+U.PSociety	SakhiHassan
+SakhiHassan	Barbar
+Barbar	Hyderi
+Hyderi	Nazimabad
+Nazimabad	LasbelaChowk
+LasbelaChowk	NishterRoad
+NishterRoad	Baba-e-UrduRoad
+Baba-e-UrduRoad	ChandbibiRoad
+ChandbibiRoad	TahirSaifuddinRoad
+TahirSaifuddinRoad	NigarCinema
+NigarCinema	NishtarRoad
+NishtarRoad	ChandBibiRoad
+ChandBibiRoad	
+
+Saeedabad	19-DMohajircamp
+19-DMohajircamp	BaldiaTown
+BaldiaTown	GraveyardNo7-1/2
+GraveyardNo7-1/2	Shershah
+Shershah	Habibbank
+Habibbank	Baraboad
+Baraboad	Jehangirabad
+Jehangirabad	NazimabadChowrangiNo1
+NazimabadChowrangiNo1	LiaquatabadNo10
+LiaquatabadNo10	Karimabad
+Karimabad	WaterPump
+WaterPump	SohrabGoth
+SohrabGoth	Powerhouse
+Powerhouse	Sindhihotel
+Sindhihotel	NewKarachi
+NewKarachi	NewKarachiallahwalamasjid
+NewKarachiallahwalamasjid	Sindhihotel
+Sindhihotel	Godhracamp
+Godhracamp	F.BArea
+F.BArea	Karimabad
+Karimabad	Liaquatabad
+Liaquatabad	
+
+DirectBunderRoad	Lighthouse
+Lighthouse	Tajhotel
+Tajhotel	BoultonMarket
+BoultonMarket	Tower
+Tower	Naginacinema
+Naginacinema	Kemari
+Kemari	NorthKarachi
+NorthKarachi	StopNo4
+StopNo4	MadinaColony
+MadinaColony	Sindhihotel
+Sindhihotel	D.turnKalaschoolNo2
+D.turnKalaschoolNo2	TwoMinitesstop
+TwoMinitesstop	Naibadi.ManghopirRoad
+Naibadi.ManghopirRoad	QasbaColony
+QasbaColony	BanarasColony
+BanarasColony	Abdullahcollege
+Abdullahcollege	Paposhnagar
+Paposhnagar	Abbasihospital
+Abbasihospital	PetrolPump
+PetrolPump	Gujarnala
+Gujarnala	LiaquatabadNo10
+LiaquatabadNo10	Gharibabad
+Gharibabad	HassanSquare
+HassanSquare	SabaAkhtarRoad
+SabaAkhtarRoad	SwanaCity
+SwanaCity	MasjidAbrar
+MasjidAbrar	ZiaColony
+ZiaColony	GulshanChorangi
+GulshanChorangi	N.I.P.A
+N.I.P.A	
+
+SafariPark	FaranCentre
+FaranCentre	JouharChowrangi
+JouharChowrangi	RabiaCity
+RabiaCity	PiraniCentre
+PiraniCentre	AjmerPalza
+AjmerPalza	PahlwanGoth
+PahlwanGoth	SafooraGoth
+SafooraGoth	
+
+Sector5-FMaidanNewKarachi	Sindhihotel
+Sindhihotel	Kalaschool
+Kalaschool	Naiabadi
+Naiabadi	ManghopirpoliceStation
+ManghopirpoliceStation	
+
+Manghopirmazar	QasbaColony
+QasbaColony	BanarasChowk
+BanarasChowk	Habibbank
+Habibbank	BaraBoard
+BaraBoard	GolimarChowrangi
+GolimarChowrangi	Yousufgoth
+Yousufgoth	Khazana
+Khazana	D.turnsindhihotel
+D.turnsindhihotel	MadinaColonyNo5
+MadinaColonyNo5	Charainala
+Charainala	Godhracamp
+Godhracamp	Powerhouse
+Powerhouse	Sohrabgoth
+Sohrabgoth	WaterPump
+WaterPump	Karimabad
+Karimabad	LiaquatabadNo10
+LiaquatabadNo10	Teenhatti
+Teenhatti	JehangirRoad
+JehangirRoad	GuruMandir
+GuruMandir	Numaish
+Numaish	7thdayhospital
+7thdayhospital	Plaza
+Plaza	TibbetCentre
+TibbetCentre	M.AjinnahRoad
+M.AjinnahRoad	Tower
+Tower	CustomHouse
+CustomHouse	
+
+SectorNo4	Qureshihotel
+Qureshihotel	Kalaschool
+Kalaschool	Twominutesstop
+Twominutesstop	Kalaschool
+Kalaschool	NewKarachiNo3
+NewKarachiNo3	NewKarachiNo1
+NewKarachiNo1	U.Psociety
+U.Psociety	NaganChowrangi
+NaganChowrangi	Powerhouse
+Powerhouse	Sohrabgoth
+Sohrabgoth	Ancholi
+Ancholi	WaterPump
+WaterPump	
+
+Nasirabad	Aishamanzil
+Aishamanzil	Karimabad
+Karimabad	LiaquatabadNo10
+LiaquatabadNo10	Nairang
+Nairang	Dakkhana
+Dakkhana	Tinhatti
+Tinhatti	JahangirRoad
+JahangirRoad	GuruMandir
+GuruMandir	Numaish
+Numaish	7DayHospital
+7DayHospital	Plaza
+Plaza	JamaClothMarket
+JamaClothMarket	BoltonMarket
+BoltonMarket	Tower
+Tower	
+
+NewKarachi	Sector5-C-3
+Sector5-C-3	Sector5-C-2
+Sector5-C-2	Sector5-C-1
+Sector5-C-1	Sector5-B-1
+Sector5-B-1	Sector5-Enala
+Sector5-Enala	Oldgolimar
+Oldgolimar	Garden
+Garden	nishterRoad
+nishterRoad	Hajicamp
+Hajicamp	LeeMarket
+LeeMarket	
+
+SurjaniTown	Sector5-B
+Sector5-B	Sector5-C
+Sector5-C	Sector1
+Sector1	Sector5-A
+Sector5-A	Sector5-2
+Sector5-2	Sector5-B
+Sector5-B	Sector5-3
+Sector5-3	
+
+Sector5-C	Sector5-4
+Sector5-4	Sector11-A
+Sector11-A	Sector11-7
+Sector11-7	Sector11-B
+Sector11-B	Sector11-5
+Sector11-5	SirsyedTown
+SirsyedTown	
+
+NaganChowrangi	Sohrabgoth
+Sohrabgoth	RashidminhasRoad
+RashidminhasRoad	Drive-in-cinema
+Drive-in-cinema	DrighRoad
+DrighRoad	MalirNo.15
+MalirNo.15	Quaidabad
+Quaidabad	SherpaoColony
+SherpaoColony	Korangi
+Korangi	FishHarbour
+FishHarbour	
+
+NaiAbadi5-D-1	NaiAbadi5-D-4
+NaiAbadi5-D-4	SindhiHotel
+SindhiHotel	NewKarachiNo.5
+NewKarachiNo.5	GodhraCamp
+GodhraCamp	SohrabGoth
+SohrabGoth	WaterPump
+WaterPump	Karimabad
+Karimabad	Lalukhet
+Lalukhet	TeenHatti
+TeenHatti	GoroMandir
+GoroMandir	OldNumaish
+OldNumaish	JamaClothMarket
+JamaClothMarket	BoltonMarket
+BoltonMarket	Tower
+Tower	WestWharf
+WestWharf	Dockyard
+Dockyard	
+
+Yousufgoth	Sindhihotel
+Sindhihotel	Godhracamp
+Godhracamp	Powerhouse
+Powerhouse	Sohrabgoth
+Sohrabgoth	WaterPump
+WaterPump	karimabad
+karimabad	
+
+LiaquatabadNo10	JehangirRoad
+JehangirRoad	M.AjinnahRoad
+M.AjinnahRoad	Tower
+Tower	Qamarhouse
+Qamarhouse	AghakhanRoad
+AghakhanRoad	PretamdasRoad
+PretamdasRoad	MirzaadamkhanRoad
+MirzaadamkhanRoad	G.AllanaRoad
+G.AllanaRoad	
+
+Naiabadi	SiddiqMarket
+SiddiqMarket	Asiamor
+Asiamor	DiscoChowk
+DiscoChowk	Baradari
+Baradari	Thanaajmernagri
+Thanaajmernagri	RehmaniaTown
+RehmaniaTown	
+
+Sector5-K	Carelamor
+Carelamor	Al-majidschool
+Al-majidschool	Enquiryoffice
+Enquiryoffice	NusratbhuttoColony
+NusratbhuttoColony	Paharganj
+Paharganj	
+
+Abdullahcollege	BoardofficeChowrangi
+BoardofficeChowrangi	NazimabadNo7
+NazimabadNo7	NazimabadPetrolPump
+NazimabadPetrolPump	LiaquatAbadNo.10
+LiaquatAbadNo.10	Ghareebabad
+Ghareebabad	HassanSquare
+HassanSquare	Sabzimandi
+Sabzimandi	JailRoadChowrangi
+JailRoadChowrangi	Sheed-e-MillatRoad
+Sheed-e-MillatRoad	KhalidBinWaleedRoad
+KhalidBinWaleedRoad	Shahrah-e-Quaideen
+Shahrah-e-Quaideen	SindhiMuslimSociety
+SindhiMuslimSociety	Nursery
+Nursery	GoraKabristan
+GoraKabristan	KalaPull
+KalaPull	DefenceSociety
+DefenceSociety	KorangiRoad
+KorangiRoad	AkhtarColony
+AkhtarColony	Qayyumabad
+Qayyumabad	ShahBhittaiColony
+ShahBhittaiColony	KorangiNo.21/2
+KorangiNo.21/2	
+
+NewsabzimandiB-10	Mohammadkhangoth
+Mohammadkhangoth	ScoutColony
+ScoutColony	Metroville-III
+Metroville-III	Alasifsquaresohrabgoth
+Alasifsquaresohrabgoth	WaterPump
+WaterPump	Gulberg
+Gulberg	PeoplesChowrangi
+PeoplesChowrangi	Sakhihasan
+Sakhihasan	Shahrah-e-shershahsooriRoad
+Shahrah-e-shershahsooriRoad	
+
+Boardoffice	Abdullahcollege
+Abdullahcollege	BanarasColony
+BanarasColony	OrangiTownNo.4
+OrangiTownNo.4	OrangTownNo.5
+OrangTownNo.5	Metroville
+Metroville	MillsArea
+MillsArea	LabourSquare
+LabourSquare	ddabad
+ddabad	
+
+NorthKarachi	Sabacinema
+Sabacinema	MillArea
+MillArea	Godhracamp
+Godhracamp	Bismillahhotel
+Bismillahhotel	U.Psociety
+U.Psociety	U.Pmor
+U.Pmor	
+
+NaganChowrangi	Sakhihasan
+Sakhihasan	Hyderi
+Hyderi	Boardoffice
+Boardoffice	Abdullahcollege
+Abdullahcollege	Z.M.Cstop
+Z.M.Cstop	OrangiNo13
+OrangiNo13	OrangiNo14
+OrangiNo14	Eidgah
+Eidgah	Thoranigoth
+Thoranigoth	IslamChowk
+IslamChowk	Dabbamor
+Dabbamor	RaisAmrohviColony
+RaisAmrohviColony	KhyberChowk
+KhyberChowk	QabailChowk
+QabailChowk	
+
+Mianwali	QasbaColony
+QasbaColony	BanarasColony
+BanarasColony	Habibbank
+Habibbank	shershah
+shershah	Miranaka
+Miranaka	AgratajColony
+AgratajColony	MiraadamKhanRoad
+MiraadamKhanRoad	MauripurRoad
+MauripurRoad	Fisheries
+Fisheries	
+
+CustomHouse	LeeMarket
+LeeMarket	JunaMarket
+JunaMarket	LawrenceRoad
+LawrenceRoad	GandhiGarden
+GandhiGarden	PuraniGolimar
+PuraniGolimar	
+
+PakistanColony	BaraBoard
+BaraBoard	MillsArea
+MillsArea	PathanColony
+PathanColony	BanarasColony
+BanarasColony	BalochColony
+BalochColony	Manghopir
+Manghopir	NewKarachiNaiAbadi
+
+RailwayStadium	AramBagh
+AramBagh	JamaClothMarket
+JamaClothMarket	BundarRoad
+BundarRoad	PlazaCinema
+PlazaCinema	7thDayHospital
+7thDayHospital	Exhibition
+Exhibition	GoroMandir
+GoroMandir	Liaquatabad
+Liaquatabad	Karimabad
+Karimabad	WaterPump
+WaterPump	SohrabGoth
+SohrabGoth	ShafiqMills
+ShafiqMills	GodhraCamp
+GodhraCamp	Nala
+Nala	NewKarachi
+NewKarachi	SindhiHotel
+SindhiHotel	LalMarketNewKarachi
+LalMarketNewKarachi	
+
+ZiauddinRoad	Shahra-e-KamalAttaturk
+Shahra-e-KamalAttaturk	IngleRoad
+IngleRoad	CourtRoad
+CourtRoad	FrereRoad
+FrereRoad	Regal
+Regal	PreedyStreet
+PreedyStreet	DowoodPotaRoad
+DowoodPotaRoad	EmpressMarket
+EmpressMarket	M.AJinnahRoad
+M.AJinnahRoad	OldExhibition
+OldExhibition	TeenHatti
+TeenHatti	
+
+Lalukhet	DakKhana
+DakKhana	LiaquatabadNo.10
+LiaquatabadNo.10	AishaManzil
+AishaManzil	WaterPump
+WaterPump	SindhiHotel
+SindhiHotel	KalaSchool
+KalaSchool	
+
+5-BArea	Kalaschool
+Kalaschool	SindhHotal
+SindhHotal	Sakhihassan
+Sakhihassan	hyderi
+hyderi	Boardoffice
+Boardoffice	Nazimabad
+Nazimabad	Golimar
+Golimar	
+
+Lasbela	Garden
+Garden	Ranchoreline
+Ranchoreline	Jubileecinema
+Jubileecinema	Radiopakistan
+Radiopakistan	JamaclothMarket
+JamaclothMarket	Civilhospital
+Civilhospital	
+
+Sector5-C/3	Kalaschool
+Kalaschool	KhayamNo3
+KhayamNo3	KhayamNo4
+KhayamNo4	KhayamNo5
+KhayamNo5	NalaNo1
+NalaNo1	U.Psociety
+U.Psociety	
+
+NaganChowrangi	GolimarNo2
+GolimarNo2	GolimarNo1
+GolimarNo1	Lasbela
+Lasbela	GuruMandir
+GuruMandir	Puraninumaish
+Puraninumaish	7thdayhospital
+7thdayhospital	M.AjinnahRoad
+M.AjinnahRoad	Jamacloth
+Jamacloth	Tower
+Tower	Customhouse
+Customhouse	Westwharf
+Westwharf	NewKarachi5-D
+NewKarachi5-D	SindhiHotel
+SindhiHotel	GodhraCamp
+GodhraCamp	PowerHouse
+PowerHouse	WaterPump
+WaterPump	Karimabad
+Karimabad	EmpressMarket
+EmpressMarket	Saddar
+Saddar	CanttStation
+CanttStation	
+
+Pushtoonabad	ManghopirRoad
+ManghopirRoad	QasbaColony
+QasbaColony	BanararColony
+BanararColony	Abdullahcollege
+Abdullahcollege	Boardoffice
+Boardoffice	
+
+K.D.AChowrangi	Hyderi
+Hyderi	FivestarChowrangi
+FivestarChowrangi	Sakhihasan
+Sakhihasan	NaganChowrangi
+NaganChowrangi	Sohrabgoth
+Sohrabgoth	
+
+GulshanChowrangi	Drive-in-cinema
+Drive-in-cinema	PetrolPump
+PetrolPump	C.O.DRoad
+C.O.DRoad	P.A.F
+P.A.F	Karsaz
+Karsaz	DrighRoad
+DrighRoad	
+
+BalochColony	MahmoodAbadNo.6
+MahmoodAbadNo.6	StarGate
+StarGate	PNSShifa
+PNSShifa	AdamRoad
+AdamRoad	Khaliq-e-Saddi
+Khaliq-e-Saddi	BoardBasin
+BoardBasin	KharkarChowrangi
+KharkarChowrangi	BilawalHouse
+BilawalHouse	Khayaban-e-Attar
+Khayaban-e-Attar	Darakshan
+Darakshan	Khayaban-eShamsheer
+Khayaban-eShamsheer	SultanMasjid
+SultanMasjid	Qayyumabad
+Qayyumabad	
+
+Surjani	Sector10
+Sector10	Sector5-D
+Sector5-D	Sector5-A
+Sector5-A	Sector5-1
+Sector5-1	Sector5-B
+Sector5-B	Sector5-3
+Sector5-3	Sector5-3
+Sector5-3	Sector5-2
+Sector5-2	Naiabadi
+Naiabadi	Twominitesstop
+Twominitesstop	Sector5-D
+Sector5-D	Sector5-F
+Sector5-F	Sindhihotel
+Sindhihotel	Sector11-D
+Sector11-D	U.Psociety
+U.Psociety	
+
+Sakhihassan	Hyderi
+Hyderi	Boardoffice
+Boardoffice	Nazimabad
+Nazimabad	Gulbahar
+Gulbahar	Lasbela
+Lasbela	NishtarRoad
+NishtarRoad	LaeMarket
+LaeMarket	Kharadar
+Kharadar	Tower
+Tower	Fisheries
+Fisheries	
+
+OrangiTownNo13	Mansoornagar
+Mansoornagar	PrehmatChowk
+PrehmatChowk	OrangiNo8-1/2
+OrangiNo8-1/2	Qaterhospital
+Qaterhospital	OrangiNo1
+OrangiNo1	Qasbamor
+Qasbamor	BanarasColony
+BanarasColony	Habibbank
+Habibbank	BaraBoard
+BaraBoard	Puranagolimargarden
+Puranagolimargarden	Dhobighat
+Dhobighat	
+
+MirzaadamkhanRoad	Agratajmoosalane
+Agratajmoosalane	Kharadar
+Kharadar	Khojajamatkhana
+Khojajamatkhana	ChotaGate
+ChotaGate	
+
+NorthKarachi5-E	NaiAbadi
+NaiAbadi	DailyJungOffice
+DailyJungOffice	NorthKarachiNaiAbadiKalaSchool
+NorthKarachiNaiAbadiKalaSchool	SindhiHotel
+SindhiHotel	U.PSociety
+U.PSociety	SakhiHassan
+SakhiHassan	Hyderi
+Hyderi	NorthNazimabad
+NorthNazimabad	PetrolPump
+PetrolPump	Lasbela
+Lasbela	GandhiGarden
+GandhiGarden	GardenRoad
+GardenRoad	Regal
+Regal	DailyJungOfice
+DailyJungOfice	T&TDepartment
+T&TDepartment	
+
+Mohajircamp	shershah
+shershah	Habibbank
+Habibbank	NazimabadNo2
+NazimabadNo2	PetrolPump
+PetrolPump	LiaquatabadNo10
+LiaquatabadNo10	Teenhatti
+Teenhatti	DehangirRoad
+DehangirRoad	GuruMandir
+GuruMandir	Oldexhibition
+Oldexhibition	Mansfieldstreet
+Mansfieldstreet	Preedystreet
+Preedystreet	MirkaramalitalpurRoad
+MirkaramalitalpurRoad	Wellingtonstreet
+Wellingtonstreet	Dr.dawoodpotaRoad
+Dr.dawoodpotaRoad	CanttStation
+CanttStation	Racacourse
+Racacourse	DehliColony
+DehliColony	Gizri
+Gizri	
+
+Saeedabad	ChandniChowk
+ChandniChowk	DabbaColony
+DabbaColony	SwatColony
+SwatColony	Baldiashershah
+Baldiashershah	Gulbai
+Gulbai	AgratajColony
+AgratajColony	Tower
+Tower	I.IchundrigarRoad
+I.IchundrigarRoad	Shahrah-e-liaquat
+Shahrah-e-liaquat	Regal
+Regal	Preedystreet
+Preedystreet	Dr.dawoodpotaRoad
+Dr.dawoodpotaRoad	Jutlandline
+Jutlandline	Abbysinia
+Abbysinia	P.E.C.H.Ssocietybusstop
+P.E.C.H.Ssocietybusstop	
+
+Naiabadi	Mohajircamp
+Mohajircamp	ShahfaisalColony
+ShahfaisalColony	ZamzamChowkNo4
+ZamzamChowkNo4	RashidabadNo2
+RashidabadNo2	shershah
+shershah	
+
+Gulbai	Tower
+Tower	BurnsRoad
+BurnsRoad	M.AjinnahRoad
+M.AjinnahRoad	Oldexhibition
+Oldexhibition	Mazarquaid-e-azam
+Mazarquaid-e-azam	Societyoffice
+Societyoffice	
+
+TariqRoad	Bahadurabad
+Bahadurabad	JailRoad
+JailRoad	Hasansquare
+Hasansquare	Gulshan-e-Iqbal
+Gulshan-e-Iqbal	WaterPump
+WaterPump	Sohrabgoth
+Sohrabgoth	ZeroMile
+ZeroMile	
+
+Mohajircamp	Habibabad
+Habibabad	BusstopNo5
+BusstopNo5	Quaid-e-azamsociety
+Quaid-e-azamsociety	Shershah
+Shershah	LeaMarket
+LeaMarket	Hajicamp
+Hajicamp	Civilhospital
+Civilhospital	Arambagh
+Arambagh	BurnsRoad
+BurnsRoad	Regal
+Regal	Luckystar
+Luckystar	EmpressMarket
+EmpressMarket	Masjid-ekhizra
+Masjid-ekhizra	Shahrah-e-iraq
+Shahrah-e-iraq	Mohajircamp
+Mohajircamp	Saeedabad
+Saeedabad	ChandniChowk
+ChandniChowk	DabbaColony
+DabbaColony	Shershah
+Shershah	Habibbank
+Habibbank	Nazimabad
+Nazimabad	
+
+Al-Azamsquare	Teenhatti
+Teenhatti	JailRoad
+JailRoad	Shaheed-e-millatRoad
+Shaheed-e-millatRoad	TariqRoad
+TariqRoad	Cafeliberty
+Cafeliberty	
+
+CheelawalakothikhalidbinwalidRoad	Shahrah-e-qaideen
+Shahrah-e-qaideen	Societyoffice
+Societyoffice	KhudadadColony
+KhudadadColony	
+
+OldExhibition	TibetMarket
+TibetMarket	RegalCinema
+RegalCinema	BunsRoad
+BunsRoad	JamaCloth
+JamaCloth	M.AJinnahRoad
+M.AJinnahRoad	Tower
+Tower	
+
+Dockyard	NewKarachiSectorNo.5-C
+NewKarachiSectorNo.5-C	NewKarachiSectorNo.5-B
+NewKarachiSectorNo.5-B	SchoolNo.3
+SchoolNo.3	SchoolNo.4
+SchoolNo.4	Nala
+Nala	U.P
+
+Society	SakhiHassanNazimabadNo.7
+SakhiHassanNazimabadNo.7	PetrolPump
+PetrolPump	Lasbela
+Lasbela	Garden
+Garden	NishterRoad
+NishterRoad	K.M.CWorkshop
+K.M.CWorkshop	Baba-e-UrduRoad
+Baba-e-UrduRoad	CityCourt
+CityCourt	Tower
+Tower	Sultanabad
+Sultanabad	P.I.D.C
+P.I.D.C	CanttStation
+CanttStation	KalaPull
+KalaPull	AzamBasti
+AzamBasti	ManzoorColony
+ManzoorColony	
+
+LeeMarket	Chakiwara
+Chakiwara	Shershah
+Shershah	Generalmotors
+Generalmotors	HubriverRoad
+HubriverRoad	Saeedabad
+Saeedabad	Noormasjid
+Noormasjid	Mohajircamp7-1/2
+Mohajircamp7-1/2	shershah
+shershah	MauripurRoad
+MauripurRoad	
+
+SaadiTown	Gulshanumair
+Gulshanumair	Racecourse
+Racecourse	Safooragoth
+Safooragoth	UniversityRoad
+UniversityRoad	N.I.P.AChowrangi
+N.I.P.AChowrangi	
+
+Hassansquare	JailRoad
+JailRoad	GuruMandir
+GuruMandir	Nomaish
+Nomaish	Plaza
+Plaza	Ramswami
+Ramswami	Shershah
+Shershah	GhaniChowrangi
+GhaniChowrangi	Rashidabad
+Rashidabad	ChandniChowk
+ChandniChowk	MawachColony
+MawachColony	QasimAliShah
+QasimAliShah	
+
+FaridColony	OrangiNo10
+OrangiNo10	OrangiNo4
+OrangiNo4	Frontiermor
+Frontiermor	Site
+Site	Habibbank
+Habibbank	Nazimabad
+Nazimabad	PetrolPump
+PetrolPump	LiaquatabadNo10
+LiaquatabadNo10	CivicCentre
+CivicCentre	Subzimandi
+Subzimandi	NewTown
+NewTown	PoliceStation
+PoliceStation	AlamgirRoad
+AlamgirRoad	
+
+Bahadurabad	TariqRoad
+TariqRoad	Shaheed-e-millatRoad
+Shaheed-e-millatRoad	Dehlisociety
+Dehlisociety	BalochColony
+BalochColony	Mahmoodabad
+Mahmoodabad	
+
+ManzoorColony	Qayyumabad
+Qayyumabad	ChamraColony
+ChamraColony	LPGPlant
+LPGPlant	HBWeather
+HBWeather	HazratBilalColony
+HazratBilalColony	Shahrah-e-Daruuloom
+Shahrah-e-Daruuloom	HashimGoth
+HashimGoth	
+
+Gulshan-e-zia	gulshan-e-bihar
+gulshan-e-bihar	shahfaisalChowk
+shahfaisalChowk	OrangiTownNo14
+OrangiTownNo14	OrangiTownNo13
+OrangiTownNo13	
+
+Qaterhospital	orangiNo1
+orangiNo1	Qasbamor
+Qasbamor	Banaras
+Banaras	Abdullahcollege
+Abdullahcollege	Paposh
+Paposh	NazimabadNo2
+NazimabadNo2	
+
+PetrolPump	LiaquatabadNo10
+LiaquatabadNo10	P.Osindhihotel
+P.Osindhihotel	Sabzimandi
+Sabzimandi	NewTown
+NewTown	Stadium
+Stadium	Dalmia
+Dalmia	DrivenCinema
+DrivenCinema	Gulistan-e-Jouhar
+Gulistan-e-Jouhar	
+
+WillayatAlishah	Moachgoth
+Moachgoth	Shershah
+Shershah	Pankhahotel
+Pankhahotel	Mirnaka
+Mirnaka	MirzaadamkhanRoad
+MirzaadamkhanRoad	Agratajhanifmanzil
+Agratajhanifmanzil	Kharadar
+Kharadar	Ismialajamatkhanatower
+Ismialajamatkhanatower	Keamari
+Keamari	Dakkhana
+Dakkhana	TarachandRoad
+TarachandRoad	
+
+K.P.Tground	ShireenjinnahColony
+ShireenjinnahColony	KharkarChowrangi
+KharkarChowrangi	Clifton26street
+Clifton26street	
+
+Noormasjid	Qabrustan
+Qabrustan	shershah
+shershah	LeeMarket
+LeeMarket	Garden
+Garden	Coastguard
+Coastguard	(HQ)Mansfieldstreet
+(HQ)Mansfieldstreet	MirkaramalitalpurRoad
+MirkaramalitalpurRoad	Wellingtonstreet
+Wellingtonstreet	Dr.dawoodpotaRoad
+Dr.dawoodpotaRoad	CanttStation
+CanttStation	
